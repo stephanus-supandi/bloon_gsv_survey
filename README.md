@@ -5,7 +5,9 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 ## Dataset
 
 - `survey_log.csv` — 70 surveyed POIs across Blok M, Ancol, Taman Galaxy, and Kranji.
+- `kranji_master_41_poi.csv` — cleaned, de-duplicated master log of 41 unique verified/observed POIs along the Pemuda Kranji corridor.
 - Observation dates/capture labels are recorded as supplied by the survey log.
+- The Kranji master merges repeated appearances of the same POI while retaining distinct visually verified adjacent nodes.
 - This repository is a working research dataset, not a claim of legal property boundaries or business ownership.
 
 ## Method
@@ -25,6 +27,14 @@ Physical evidence such as permanent signage, address plates, road-name paint, fi
 Map/business labels are treated as **metadata**, not ground truth.
 
 A readable token alone does not establish object, property, business, or cross-date identity.
+
+### Kranji Ronde 8 notes
+
+The Jan 2026 Kranji batch adds a new cell-phone retail row around Hallo Phone, Asia Afrika, and Happy Cell, with vivo/oppo/itel/Samsung promotional signage and repeated transient scene elements used only as capture-continuity clues.
+
+A separate Apr 2025 observation records Toko Giat Makmur with a visible bulk banana display, treated as an observed wholesale/agricultural-supply node rather than an inferred property or market boundary.
+
+The Ronde 8 interpretation of smartphone-retail clustering and Pasar Kranji spill-over remains an analytical hypothesis supported by observed co-location, not a causal economic claim.
 
 ## Current survey scope
 
