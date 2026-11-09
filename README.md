@@ -4,6 +4,10 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Batch 111 — Gang Masjid Raya: coordinate/label drift (2026-11-10)](reports/batch-111-gang-masjid-raya-coordinate-label-drift-2026-11-10.md) — zero new commodity cells; listing/pin/building mismatches and house number 36 retained as unresolved observations, with no cross-batch identity claim.
+- [Batch 112 — Gang Masjid Raya: pesantren and sofa service (2026-11-10)](reports/batch-112-gang-masjid-raya-pesantren-and-sofa-service-2026-11-10.md) — zero new commodity cells; adds sofa repair as a service variant; Mahasina 4.9/262 treated as raw platform metadata.
+- [Batch 113 — Essence Park: container scale (2026-11-10)](reports/batch-113-essence-park-container-scale-2026-11-10.md) — zero new commodity cells; residential complex rating and toll-road wording recorded as platform context, not evidence of gentrification.
+- [Batch 114 — Masjid Raya: freight forwarding and age claims (2026-11-10)](reports/batch-114-masjid-raya-forwarding-and-age-claims-2026-11-10.md) — records an international sea/air freight-forwarding banner claim and a mosque “founded 1911” directional-sign claim, neither independently verified.
 - [Kemang Raya replay audit — May 2024 vs February 2025 (2026-11-10)](reports/kemang-raya-replay-audit-may-2024-vs-feb-2025-2026-11-10.md) — repeated five-frame content; zero new content-level observations; GRAMHA MUTIARA gate/security post recorded as confirmation; two capture dates kept separate with no temporal-change claim.
 
 ## Dataset
