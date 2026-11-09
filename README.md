@@ -2,6 +2,10 @@
 
 Forensic Street View survey of urban POIs, spatial continuity, metadata drift, and micro-economic patterns across Jakarta–Bekasi.
 
+## Recent audit notes
+
+- [Kemang Raya replay audit — May 2024 vs February 2025 (2026-11-10)](reports/kemang-raya-replay-audit-may-2024-vs-feb-2025-2026-11-10.md) — repeated five-frame content; zero new content-level observations; GRAMHA MUTIARA gate/security post recorded as confirmation; two capture dates kept separate with no temporal-change claim.
+
 ## Dataset
 
 - `survey_log.csv` — 70 surveyed POIs across Blok M, Ancol, Taman Galaxy, and Kranji.
@@ -53,5 +57,5 @@ Working research dataset. Future additions should preserve provenance and uncert
 
 ## Suggested citation
 
-**BLOON GSV Archaeology — Jakarta–Bekasi Survey Log, 2026.**
+**BLOON GSV Archaeology — Jakarta–Bekasi Survey Log, 2026.**  
 Repository: `stephanus-supandi/bloon_gsv_survey`
