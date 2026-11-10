@@ -4,6 +4,7 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Nakula 3 — visible vehicle and unresolved business-pin context (2026-11-10)](reports/nakula-3-visible-vehicle-business-pin-context-2026-11-10.md) — records a March 2025 Street View frontage labelled “15 Jl. Nakula 3”, a white BYD-like vehicle, and an unresolved Ecosmartpool name/address lead; excludes private residence history and makes no claim of business operation, ownership, listing absence, or platform delay.
 - [Batches 118–123 — Nakula, Sadewa, and Barito: repeat control and metadata audit (2026-11-10)](reports/batches-118-123-nakula-sadewa-barito-repeat-and-metadata-audit-2026-11-10.md) — records repeated content, the narrow water-refill service distinction, non-commercial neighborhood/organizational elements, pin/sign discrepancies, and strict limits on continuity, ownership, operation, and listing-date claims.
 - [Batch 111 — Gang Masjid Raya: coordinate/label drift (2026-11-10)](reports/batch-111-gang-masjid-raya-coordinate-label-drift-2026-11-10.md) — zero new commodity cells; listing/pin/building mismatches and house number 36 retained as unresolved observations, with no cross-batch identity claim.
 - [Batch 112 — Gang Masjid Raya: pesantren and sofa service (2026-11-10)](reports/batch-112-gang-masjid-raya-pesantren-and-sofa-service-2026-11-10.md) — zero new commodity cells; adds sofa repair as a service variant; Mahasina 4.9/262 treated as raw platform metadata.
