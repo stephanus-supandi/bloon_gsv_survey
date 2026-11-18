@@ -4,6 +4,7 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Batches 58–60 — intra-render string anomaly, cross-pose panel stability, and Thamrin City name coherence (2026-11-18)](reports/batches-58-60-intra-render-and-cross-layer-audit-2026-11-18.md) — records the corrupted single-bubble text, repeated Bakso panel across different reported poses, pin-toggle/name-token extensions, and the Thamrin City token across review prose, road paint, and a POI label. No database merge, independent corroboration, or camera-position claim is made.
 - [Batches 51–53 — Mas Mansyur carpet network and metadata audit (2026-11-18)](reports/batches-51-53-mas-mansyur-carpet-network-and-metadata-audit-2026-11-18.md) — records the road-plus-alley carpet-context wrinkle, relational travel-time metadata, unusual listing-hours fields, category candidates, and the continuing boundary that camera position is unverified. This is a separate batch-number sequence from the earlier San Francisco Batch 50–54 report.
 
 - [Jatiwaringin — Jl. H. Mean Raya, Jl. Selekta, Jl. Setia 1 and Jl. Setia 1U: preliminary POI intake (2026-11-17)](reports/jatiwaringin-setia-1-setia-1u-intake-2026-11-17.md) — records user-supplied Street View summary leads as unverified candidates; keeps Nepal Van Java separate due geographic inconsistency; no coordinates, capture dates, operating-status claims, or BEO normalization are fabricated.
