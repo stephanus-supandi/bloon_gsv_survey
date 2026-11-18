@@ -4,6 +4,7 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Batches 61–63 — intra-panel naming, banner ambiguity, and multi-entity infrastructure representation (2026-11-18)](reports/batches-61-63-intra-panel-banner-and-infrastructure-audit-2026-11-18.md) — records title/subtitle variation within one panel, a single-pin spelling anomaly, unresolved fabric-sign boundaries, a reported musholla/SPBU multi-entity representation, and cross-field review-prose incongruence. No database corruption or camera-position claim is made.
 - [Batches 58–60 — intra-render string anomaly, cross-pose panel stability, and Thamrin City name coherence (2026-11-18)](reports/batches-58-60-intra-render-and-cross-layer-audit-2026-11-18.md) — records the corrupted single-bubble text, repeated Bakso panel across different reported poses, pin-toggle/name-token extensions, and the Thamrin City token across review prose, road paint, and a POI label. No database merge, independent corroboration, or camera-position claim is made.
 - [Batches 51–53 — Mas Mansyur carpet network and metadata audit (2026-11-18)](reports/batches-51-53-mas-mansyur-carpet-network-and-metadata-audit-2026-11-18.md) — records the road-plus-alley carpet-context wrinkle, relational travel-time metadata, unusual listing-hours fields, category candidates, and the continuing boundary that camera position is unverified. This is a separate batch-number sequence from the earlier San Francisco Batch 50–54 report.
 
@@ -14,7 +15,7 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 - [Batch 112 — Gang Masjid Raya: pesantren and sofa service (2026-11-10)](reports/batch-112-gang-masjid-raya-pesantren-and-sofa-service-2026-11-10.md) — zero new commodity cells; adds sofa repair as a service variant; Mahasina 4.9/262 treated as raw platform metadata.
 - [Batch 113 — Essence Park: container scale (2026-11-10)](reports/batch-113-essence-park-container-scale-2026-11-10.md) — zero new commodity cells; residential complex rating and toll-road wording recorded as platform context, not evidence of gentrification.
 - [Batch 114 — Masjid Raya: freight forwarding and age claims (2026-11-10)](reports/batch-114-masjid-raya-forwarding-and-age-claims-2026-11-10.md) — records an international sea/air freight-forwarding banner claim and a mosque “founded 1911” directional-sign claim, neither independently verified.
-- [Kemang Raya replay audit — May 2024 vs February 2025 (2026-11-10)](reports/kemang-raya-replay-audit-may-2024-vs-feb-2025-2026-11-10.md) — repeated five-frame content; zero new content-level observations; GRAMHA MUTIARA gate/security post recorded as confirmation; two capture dates kept separate with no temporal-change claim.
+- [Kemang Raya replay audit — May 2024 vs February 2025 (2026-11-10)](reports/kemang-raya-replay-audit-may-2024-vs-february-2025-2026-11-10.md) — repeated five-frame content; zero new content-level observations; GRAMHA MUTIARA gate/security post recorded as confirmation; two capture dates kept separate with no temporal-change claim.
 
 ## Dataset
 
