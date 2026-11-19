@@ -2,7 +2,10 @@
 
 Forensic Street View survey of urban POIs, spatial continuity, metadata drift, and micro-economic patterns across Jakarta–Bekasi.
 
-## Recent audit notes
+
+- [Batch 112 — stale-at-end epoch and three-pin facade audit (2026-11-19)](reports/batch-112-stale-at-end-and-three-pin-facade-audit-2026-11-19.md) — records a March 2020 tile at the end of a four-tile July 2024 group, plus three rendered pins spanning religious, travel, and security categories associated with one apparent facade. Epoch/clock metadata and facade associations do not verify chronology, tenancy, or camera position.
+- [Batch 111 — interleaved epoch and new-placement audit (2026-11-19)](reports/batch-111-interleaved-epoch-and-new-placement-audit-2026-11-19.md) — records an interleaved July 2024/May 2025 epoch pattern, Hangul in a rendered name field, property-sale printed media, and a facade pictogram. Displayed clock values do not validate imagery epochs or prove a live session.
+- [Batch 110 — multi-tile epoch puncture and same-facade two-pin audit (2026-11-19)](reports/batch-110-multi-tile-epoch-puncture-and-same-facade-two-pin-audit-2026-11-19.md) — records four July 2024 tiles alongside one May 2025 tile, a same-facade two-pin observation, and a brand-name casing/spacing divergence. The epoch grouping does not establish a database mechanism or camera position.
 
 - [Batch 95 — cross-batch panel echo and echo-depth audit (2026-11-19)](reports/batch-95-cross-batch-panel-echo-depth-audit-2026-11-19.md) — records five exact panel correspondences to Batches 91–94 and distinguishes total echo (panel + scene) from partial echo (panel match with changed/recombined scene). No database-cache mechanism or camera position is established.
 - [Batch 94 — extreme travel-time metadata, stacked acronyms, and subtitle expansion (2026-11-19)](reports/batch-94-extreme-travel-time-name-composition-and-subtitle-audit-2026-11-19.md) — records 3 hr 38 min / 3 hr 37 min travel-time values as bearing-less metadata, plus name-field acronym stacking and title/subtitle menu expansion. No cross-continent route or camera position is inferred.
