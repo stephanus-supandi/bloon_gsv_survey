@@ -2,6 +2,7 @@
 
 Forensic Street View survey of urban POIs, spatial continuity, metadata drift, and micro-economic patterns across Jakarta–Bekasi.
 
+## Recent audit notes
 
 - [Batch 112 — stale-at-end epoch and three-pin facade audit (2026-11-19)](reports/batch-112-stale-at-end-and-three-pin-facade-audit-2026-11-19.md) — records a March 2020 tile at the end of a four-tile July 2024 group, plus three rendered pins spanning religious, travel, and security categories associated with one apparent facade. Epoch/clock metadata and facade associations do not verify chronology, tenancy, or camera position.
 - [Batch 111 — interleaved epoch and new-placement audit (2026-11-19)](reports/batch-111-interleaved-epoch-and-new-placement-audit-2026-11-19.md) — records an interleaved July 2024/May 2025 epoch pattern, Hangul in a rendered name field, property-sale printed media, and a facade pictogram. Displayed clock values do not validate imagery epochs or prove a live session.
