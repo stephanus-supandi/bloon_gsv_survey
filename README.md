@@ -58,6 +58,15 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 - [Batch 114 — Masjid Raya: freight forwarding and age claims (2026-11-10)](reports/batch-114-masjid-raya-forwarding-and-age-claims-2026-11-10.md) — records an international sea/air freight-forwarding banner claim and a mosque “founded 1911” directional-sign claim, neither independently verified.
 - [Kemang Raya replay audit — May 2024 vs February 2025 (2026-11-10)](reports/kemang-raya-replay-audit-may-2024-vs-february-2025-2026-11-10.md) — repeated five-frame content; zero new content-level observations; GRAMHA MUTIARA gate/security post recorded as confirmation; two capture dates kept separate with no temporal-change claim.
 
+## Data model
+
+- [Normalized site–POI–observation model](docs/data-model.md) — separates physical sites, businesses/institutions (POIs), observations, and explicit relationships.
+- [JSON Schema: site](schemas/site.schema.json), [POI](schemas/poi.schema.json), [observation](schemas/observation.schema.json), and [relationship](schemas/relationship.schema.json) — target validation schemas; legacy master files have not yet been migrated.
+
+## Recent international intake
+
+- [Mexicali — incremental intake, batches 24–70 (2026-11-23)](field-notes/international/2026-11-23_mexicali-incremental-intake-batches-24-70.md) — records the Periférico/OASA industrial corridor, education/medical/automotive/retail POIs, Macristy corridor entries, multi-tenant candidates, temporal re-observations, and duplicate replay. Source is user-supplied descriptions; no coordinates or stable IDs fabricated; ~137 remains an unaudited observer estimate.
+
 ## Dataset
 
 - `survey_log.csv` — 70 surveyed POIs across Blok M, Ancol, Taman Galaxy, and Kranji.
