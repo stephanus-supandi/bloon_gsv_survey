@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/stephanus-supandi/bloon_gsv_survey/blob/master/schemas/relationship.schema.json",
+  "title": "BLOON GSV Relationship",
+  "description": "An explicit, evidence-qualified relationship between sites, POIs, or observations.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "relationship_id",
+    "subject_type",
+    "subject_id",
+    "predicate",
+    "object_type",
+    "object_id",
+    "status"
+  ],
+  "properties": {
+    "relationship_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "subject_type": {
+      "type": "string",
+      "enum": [
+        "SITE",
+        "POI",
+        "OBSERVATION"
+      ]
+    },
+    "subject_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "predicate": {
+      "type": "string",
+      "enum": [
+        "OCCUPIES",
+        "MULTI_TENANT_MEMBER_OF",
+        "CO_TENANT_WITH",
+        "REOBSERVATION_OF",
+        "POSSIBLE_SAME_ENTITY_AS",
+        "SIGNAGE_FOR",
+        "SAME_PHYSICAL_SITE_AS",
+        "CONTEXT_NEAR"
+      ]
+    },
+    "object_type": {
+      "type": "string",
+      "enum": [
+        "SITE",
+        "POI",
+        "OBSERVATION"
+      ]
+    },
+    "object_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "PROPOSED",
+        "SUPPORTED",
+        "VERIFIED",
+        "REJECTED",
+        "UNRESOLVED"
+      ]
+    },
+    "evidence_refs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
