@@ -1,0 +1,149 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/stephanus-supandi/bloon_gsv_survey/blob/master/schemas/observation.schema.json",
+  "title": "BLOON GSV Observation",
+  "description": "One recorded appearance or evidence event for a POI or physical site.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "observation_id",
+    "observation_type",
+    "evidence_basis",
+    "capture_date_precision"
+  ],
+  "anyOf": [
+    {
+      "required": [
+        "poi_id"
+      ]
+    },
+    {
+      "required": [
+        "site_id"
+      ]
+    }
+  ],
+  "properties": {
+    "observation_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "poi_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "site_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "batch_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "image_ref": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "capture_date": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "ISO date or partial date as supplied; do not fabricate missing precision."
+    },
+    "capture_date_precision": {
+      "type": "string",
+      "enum": [
+        "DAY",
+        "MONTH",
+        "YEAR",
+        "UNKNOWN"
+      ]
+    },
+    "observation_type": {
+      "type": "string",
+      "enum": [
+        "NEW_CANDIDATE",
+        "REOBSERVATION",
+        "DUPLICATE_REPLAY",
+        "CONTEXT_ONLY"
+      ]
+    },
+    "evidence_basis": {
+      "type": "string",
+      "enum": [
+        "USER_DESCRIPTION",
+        "SCREENSHOT_REVIEW",
+        "INDEPENDENT_SOURCE"
+      ]
+    },
+    "visible_text": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "reported_category": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "listing_metadata": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "rating": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0,
+          "maximum": 5
+        },
+        "review_count": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "hours_text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "status_text": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "source_label": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
