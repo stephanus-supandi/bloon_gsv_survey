@@ -65,6 +65,7 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent international intake
 
+- [New Delhi — Kirti Nagar furniture and interior-design cluster (2026-11-23)](field-notes/international/2026-11-23_new-delhi-kirti-nagar-incremental-intake.md) — consolidates 20 provisional POIs across five supplied groups; records HiLife Furnishers and Chaudhary Furniture & Decorator as re-observations and JK Sales as a within-group duplicate. October 2025 imagery labels and listing details remain user-reported; no independent screenshot review, coordinates, or master CSV changes.
 - [Mexicali — incremental intake, batches 24–70 (2026-11-23)](field-notes/international/2026-11-23_mexicali-incremental-intake-batches-24-70.md) — records the Periférico/OASA industrial corridor, education/medical/automotive/retail POIs, Macristy corridor entries, multi-tenant candidates, temporal re-observations, and duplicate replay. Source is user-supplied descriptions; no coordinates or stable IDs fabricated; ~137 remains an unaudited observer estimate.
 
 ## Dataset
