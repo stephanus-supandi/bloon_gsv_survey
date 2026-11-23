@@ -1,0 +1,104 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/stephanus-supandi/bloon_gsv_survey/blob/master/schemas/poi.schema.json",
+  "title": "BLOON GSV Point of Interest",
+  "description": "A business, institution, service, or named POI candidate associated with an optional physical site.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "poi_id",
+    "canonical_name",
+    "identity_status",
+    "tenant_status",
+    "source_provenance"
+  ],
+  "properties": {
+    "poi_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "canonical_name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "raw_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "name_variants": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "category": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "site_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "tenant_status": {
+      "type": "string",
+      "enum": [
+        "STANDALONE",
+        "MULTI_TENANT_MEMBER",
+        "POSSIBLE_TENANT",
+        "UNKNOWN"
+      ]
+    },
+    "identity_status": {
+      "type": "string",
+      "enum": [
+        "CANDIDATE",
+        "PROBABLE",
+        "VERIFIED",
+        "UNRESOLVED",
+        "REJECTED"
+      ]
+    },
+    "source_provenance": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "source_type",
+          "source_ref"
+        ],
+        "properties": {
+          "source_type": {
+            "type": "string",
+            "enum": [
+              "USER_DESCRIPTION",
+              "SCREENSHOT_REVIEW",
+              "LISTING_PANEL",
+              "SIGNAGE",
+              "INDEPENDENT_SOURCE",
+              "LEGACY_RECORD"
+            ]
+          },
+          "source_ref": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    }
+  }
+}
