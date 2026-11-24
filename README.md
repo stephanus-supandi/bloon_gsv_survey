@@ -4,6 +4,9 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Kramat Sentiong — supplied Batches 7–8 incremental re-observation intake (2026-11-25)](field-notes/indonesia/2026-11-25_kramat-sentiong-batches-7-8-reobservation-intake.md) — adds four provisional labels (Dan's Gym, Garuda group 7, Puspitasari, Service handphone) after checking existing Kramat notes; treats Red Kizmiz, Dorkas, and the other previously catalogued names as re-observations. The reported cumulative screenshot tally (~157) remains unaudited; no coordinates or master CSV changes.
+
+
 - [Bekasi and Central Jakarta — supplied Batches 3–6 incremental Street View intake (2026-11-25)](field-notes/indonesia/2026-11-25_bekasi-central-jakarta-batches-3-6-incremental-intake.md) — consolidates four 20-screenshot descriptions across Bekasi and Central Jakarta; excludes Venus Karaoke/PT Manna/Aura Cell, Hotel Gren Alia, and Ayam Gepuk Pak Gembus Sentiong where existing notes already cover them. Retains physical street/viaduct/cabling observations and unresolved pin/frontage boundaries. All source descriptions and metadata remain user-reported; no coordinates or master CSV changes.
 
 
