@@ -4,6 +4,9 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Bekasi and Central Jakarta — supplied Batches 3–6 incremental Street View intake (2026-11-25)](field-notes/indonesia/2026-11-25_bekasi-central-jakarta-batches-3-6-incremental-intake.md) — consolidates four 20-screenshot descriptions across Bekasi and Central Jakarta; excludes Venus Karaoke/PT Manna/Aura Cell, Hotel Gren Alia, and Ayam Gepuk Pak Gembus Sentiong where existing notes already cover them. Retains physical street/viaduct/cabling observations and unresolved pin/frontage boundaries. All source descriptions and metadata remain user-reported; no coordinates or master CSV changes.
+
+
 - [West Jakarta — Jl. Satu Maret and Jl. Palem Raja Utama: Batches 13–14 incremental Street View intake (2026-11-24)](field-notes/indonesia/2026-11-24_west-jakarta-jl-satu-maret-palem-raja-utama-batches-13-14-intake.md) — adds 20 screenshot descriptions across the Jl. Satu Maret continuation and Jl. Palem Raja Utama near Gg. Jago; retains repeated labels, same-scene/different-label cases, and shared-vehicle/landmark clues as unresolved observations. March 2025 imagery labels and listing metadata remain user-reported; no coordinates, stable IDs, or master CSV changes.
 
 - [West Jakarta — Kalideres, Pegadungan, Taman Surya and Jl. Satu Maret: Batches 8–11 incremental Street View intake (2026-11-24)](field-notes/indonesia/2026-11-24_west-jakarta-kalideres-pegadungan-taman-surya-batches-8-11-intake.md) — consolidates 40 supplied screenshot descriptions into 35 provisional pin/name candidates after five repeated-name observations; retains same-scene/different-label cases and multi-epoch observations without asserting shared premises, tenancy, or ownership. Names, imagery details, ratings and listing metadata remain user-reported; no coordinates or master CSV changes.
