@@ -4,6 +4,8 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Bogor Regency — Leuwiliang / Cibungbulang / Jl. Nasional 11 expanded intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-leuwiliang-cibungbulang-national-route-11-expanded-reobservation-intake.md) — consolidates five supplied groups and 25 principal entries; adds 15 provisional business/site names, while recording earlier candidates as re-observations. Preserves the Ratu Meubel pin / MR. JO frontage discrepancy, GJH / school-complex label mismatch, and unresolved road/locality boundaries; no coordinates or master CSV changes.
+
 - [Bogor Regency — Ciampea / Cibadak / Cinanggung final follow-up intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-ciampea-cibadak-cinanggung-final-followup-intake.md) — adds six new provisional name strings and records four re-observations from the earlier Ciampea intake. Keeps Jl. Raya Cibadak, Jl. Raya Cinanggung, and the “Jl. Raya Cibungbulang” banner wording unresolved; no coordinates, verified road continuity, or master CSV changes.
 
 - [Bogor Regency — Cinanggung, Cibadak and Ciampea follow-on intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-cinanggung-cibadak-ciampea-follow-on-intake.md) — records 23 distinct provisional name strings from five supplied groups after consolidating UD. Genia and Warteg Sederhana re-observations; preserves the final RW 07/Desa Cibadak/Ciampea localization while flagging Cinanggung/Cibadak road continuity and the earlier Cimanggung/Sumedang spelling collision. Shared-yard, adjacency, and business-identity claims remain unresolved; no coordinates or master CSV changes.
