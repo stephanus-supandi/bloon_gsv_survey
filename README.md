@@ -4,6 +4,8 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Bogor Regency — Cibungbulang / Cinanggung replay and “Luhut Binsar Panjaitan Area” outlier intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-cibungbulang-cinanggung-replay-and-luhut-area-outlier-intake.md) — excludes five repeated entries already in the prior Bogor tanker intake, adds four provisional Bogor names, and isolates the October 2026 rural scene as an unresolved location-label outlier; no coordinates or master CSV changes.
+
 - [Bogor Regency — Leuwiliang / Cinanggung / Cibungbulang: tanker and commercial-strip follow-up intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-leuwiliang-cinanggung-cibungbulang-final-tanker-and-commercial-strip-intake.md) — records 15 principal pin/location entries across three supplied groups, with 11 new provisional name/sign candidates and four re-observations. Preserves the Pertamina tanker occlusion, Qiana/Apotek and restaurant/electrical-company pin-to-frontage discrepancies, and separate road labels; no coordinates or master CSV changes.
 
 - [Bogor Regency — Leuwiliang / Cibungbulang / Jl. Nasional 11 expanded intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-leuwiliang-cibungbulang-national-route-11-expanded-reobservation-intake.md) — consolidates five supplied groups and 25 principal entries; adds 16 provisional business/site names, while recording earlier candidates as re-observations. Preserves the Ratu Meubel pin / MR. JO frontage discrepancy, GJH / school-complex label mismatch, and unresolved road/locality boundaries; no coordinates or master CSV changes.
