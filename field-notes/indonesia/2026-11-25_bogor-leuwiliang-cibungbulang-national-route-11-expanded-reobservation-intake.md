@@ -67,7 +67,7 @@ The repeated grey MPV and public-transport van are contextual scene details only
 ## Intake accounting
 
 - Five supplied groups, each describing five principal pin/location entries: 25 principal entries.
-- New provisional business/site name strings: 15 (La-Ja Audio; Mr. Jo; Toko Sinar/Aliang; Toko Sinar Electrik; Toko Ibu May; Sahabat Industri; Komplek Pendidikan Pandu/Yayasan Al'Aadiyaat; Syafa Snack; ANGELA STORE; FRperfume; Mitra Cellindo; Alfamart LEUWEUNG KOLOT2; Apotek Nurmala; Teknisi Gigi B & Y Dental; godbless barbershop).
+- New provisional business/site name strings: 16 (Indo Bangunan; La-Ja Audio; Mr. Jo; Toko Sinar/Aliang; Toko Sinar Electrik; Toko Ibu May; Sahabat Industri; Komplek Pendidikan Pandu/Yayasan Al'Aadiyaat; Syafa Snack; ANGELA STORE; FRperfume; Mitra Cellindo; Alfamart LEUWEUNG KOLOT2; Apotek Nurmala; Teknisi Gigi B & Y Dental; godbless barbershop).
 - Re-observations of earlier candidates: 9 principal entries (SPBU Pertamina Leuweung Kolot; Ratu Meubel Bogor pin; Toko SRC Hj Empar; Mks Custom; Warung Lontong; Os Cell; INDOBETON; Boba Hasna; GJH Leuwiliang, which appears more than once in the supplied groups).
 - “Indo Bangunan” is a new site/name candidate; “Jotun” is retained as a brand sign on that reported building, not counted as a second business.
 - “Mr. Jo” is retained as a visible storefront label distinct from the Ratu Meubel pin label. This is a discrepancy, not proof of a business change.
