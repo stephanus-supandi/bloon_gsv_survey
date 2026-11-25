@@ -4,6 +4,8 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [West Java — Cimanggung and Bogor Regency: supplied Street View intake (2026-11-25)](field-notes/indonesia/2026-11-25_west-java-cimanggung-bogor-national-route-11-intake.md) — records 10 provisional labels across geographically separate Cimanggung/Sumedang and Leuwiliang–Ciampea/Bogor clusters; flags the “Jl. Raya Cibungbulang”/Cimanggung mismatch and the unresolved “Jl. Nasional 11” road-label issue. The Leuweung Kolot tax-office/Pertamina pair is retained as one reported two-angle scene; no coordinates, verified identities, or master CSV changes.
+
 - [Singapore — Tanjong Pagar Road, Gopeng Street and Bernam Street follow-on intake (2026-11-25)](field-notes/international/2026-11-25_singapore-tanjong-pagar-bernam-follow-on-intake.md) — records 10 additional provisional labels, consolidates repeated Envious Lash / Best Target Trading / Apollonia Dental Surgery mentions, and treats Carlton City Hotel and Tanjong Pagar Plaza as Batch 10 re-observations. “OCBC Campus” remains an unverified pin label; One Bernam construction details are user-reported. No coordinates, verified entities, or master CSV changes.
 
 
