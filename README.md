@@ -4,6 +4,9 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Singapore — Tanjong Pagar Road, Gopeng Street and Bernam Street follow-on intake (2026-11-25)](field-notes/international/2026-11-25_singapore-tanjong-pagar-bernam-follow-on-intake.md) — records 10 additional provisional labels, consolidates repeated Envious Lash / Best Target Trading / Apollonia Dental Surgery mentions, and treats Carlton City Hotel and Tanjong Pagar Plaza as Batch 10 re-observations. “OCBC Campus” remains an unverified pin label; One Bernam construction details are user-reported. No coordinates, verified entities, or master CSV changes.
+
+
 - [Las Vegas Strip and Singapore Tanjong Pagar — supplied Batch 10 Street View intake (2026-11-25)](field-notes/international/2026-11-25_las-vegas-singapore-tanjong-pagar-batch-10-intake.md) — records 20 supplied screenshot descriptions as 17 provisional pin/name candidates across two cities; preserves repeated Wynn views as re-observations, keeps Trump International Hotel and Realty labels separate, and records the plaza group without inferring shared ownership. Dates, ratings, labels and scene details remain user-reported; no coordinates, verified entities, or master CSV changes.
 
 - [Kramat Sentiong — supplied Batches 7–8 incremental re-observation intake (2026-11-25)](field-notes/indonesia/2026-11-25_kramat-sentiong-batches-7-8-reobservation-intake.md) — adds four provisional labels (Dan's Gym, Garuda group 7, Puspitasari, Service handphone) after checking existing Kramat notes; treats Red Kizmiz, Dorkas, and the other previously catalogued names as re-observations. The reported cumulative screenshot tally (~157) remains unaudited; no coordinates or master CSV changes.
