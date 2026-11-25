@@ -4,6 +4,7 @@
 **Source:** One user-supplied textual summary describing 20 screenshots (Images 1–20). Original screenshot files, Street View URLs, and map panels were not independently inspected in this repository update.  
 **Scope:** Las Vegas Strip (Images 1–11) and Singapore, Tanjong Pagar (Images 12–20).  
 **Status:** Provisional intake from supplied descriptions only.
+**Sequence note:** “Batch 10” is the observer's local label for this 20-screenshot submission. Batch numbers are not repository-wide identifiers and are not used to merge records from other city or audit series.
 
 ## Scope and accounting
 
