@@ -229,3 +229,68 @@ The summary suggests North Sumatra because Luhut Binsar Panjaitan is associated 
 - No coordinates, property boundary, ownership, or stable POI ID assigned.
 
 **Evidence status:** unresolved location reference based on a user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## J. Supplemental Ceger Raya observations — Al-Farid / Putra Gadai / Samsung / Afif Buah / Bondre Wash
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** User-supplied written summaries of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS; no verified POI changes.
+
+### J1. Toko Al-Farid, Ar-Rahman, O!save, and nearby frontage
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Toko Al-Farid | Grocery / general store with yellow banner reading “Selimut Kerinduan”; described as selling household goods and possibly bedding | The bedding interpretation is tentative; banner slogan alone does not establish inventory. Keep separate from Toko Alfario in section G: similar slogan is not proof of the same shop or operator |
+| Yayasan Pendidikan Islam Ar-Rahman | Foundation sign reportedly next door to or possibly sharing a building complex with Toko Al-Farid | Preserve the foundation name as transcribed. Do not infer that it operates a school, TPA, or MDA without direct evidence of its activities or premises |
+| “Jasa Pasang LCD & Sparepart HP” | Blue sign reportedly above/near the Toko Al-Farid / foundation frontage | Record as a separate phone-service sign candidate. Proximity does not establish which business operates it |
+| O!save Mart / O!save | Convenience-store name and bright red facade reportedly visible across the street | Storefront branding only; exact address and map-pin match not supplied |
+| Sop Buah Nabilah | Small storefront selling sop buah; reported rating 4.7 stars (87 reviews); described next to Putra Gadai signage | “Sop buah” is an Indonesian fruit-dessert/drink, not necessarily soup. Rating and review count are platform metadata as reported, not proof of popularity or current status |
+| Putra Gadai / Putra Gadai Ceger | Large blue pawn-shop billboard reportedly beside Sop Buah Nabilah and visible again in later views | Keep this raw name separate from “Pusat Gadai Indonesia” in section G. Similar business category and nearby scenes do not establish that these are the same company or branch |
+| Toko Mebel Hengky Jaya | Furniture shop; reported rating 4.5 stars (11 reviews); another road view reportedly shows Putra Gadai signage and yellow tactile paving | Re-observation of the existing Hengky Jaya candidate in section G. Do not create a duplicate POI. Tactile paving and passing scooter rider are contextual scene details |
+
+### J2. Fotocopy Kuta, Gg. Keluarga, and Samsung frontage
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Fotocopy Kuta | Photocopy / stationery-style shop label; reported rating 5.0 stars; described below the blue “Putra Gadai Ceger” billboard | Exact frontage and address are not independently established. Rating is listing metadata |
+| Gg. Keluarga | Alley name reportedly visible on a sign along Jl. Ceger Raya | Retain as a street/alley label, not a business |
+| “2 JAM BERES” car-wash sign | Sign reportedly visible near Gg. Keluarga and Toko Al-Farid | This suggests a car-wash offer/service but does not identify its operator or exact premises |
+| RM. Sambal Gandul Mertua | Red building near Gg. Keluarga and reportedly next to Samsung Store; Google Maps listing reported as “Permanently Closed” | Closure status is platform metadata from the supplied summary, not independently checked. Do not infer closure date or reason. The dish/name interpretation is not used to infer the restaurant's actual menu |
+| Samsung Store – Ceger Bintaro | Red storefront with Samsung billboard advertising “Galaxy A17 / A17 5G” and “Mulai dari 2 jutaan”; another banner reportedly reads “GRATIS 6 BULAN” | Preserve the exact visible promotional text as reported. “Gratis 6 bulan” promotion mechanism is unclear; do not infer installment terms or financing provider |
+| “Rice Bowl” sign | Sign reportedly visible on a blue building to the left of Samsung Store | Separate nearby food-business candidate; no operator or exact name established |
+| Toko Mebel Hengky Jaya | Wider Jl. Ceger Raya view reportedly shows the furniture shop farther along the road, with a black SUV and motorcycle traffic | Re-observation of section G candidate. SUV and motorcycles are transient scene context, not business links |
+
+The Galaxy A17 / A17 5G advertisement is a visible product-generation clue, but it does **not by itself confirm the Street View capture date**. Retain September 2026 as the user-reported imagery date, pending direct inspection of the Street View date label.
+
+### J3. Afif Buah, Bondre Wash, Niat Sejahtera, and pawn-shop billboard
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Toko Afif Buah | Fruit shop on Jl. Ceger Raya; “Cuci Motor 20.000” sign reportedly visible in the background | The motorcycle-wash sign is a separate nearby service candidate; do not assign it to Afif Buah without frontage evidence |
+| Bondre Wash Laundry | Laundry service; reported rating 5.0 stars (26 reviews); red banner reportedly says “Cuci Cepat 1 x 24 Jam” and normal price Rp6,000/kg; next to a small shop with “Evo” sign | Preserve the advertised wording and price as a screenshot-time observation, not a verified current tariff or turnaround guarantee. “Evo” remains a separate adjacent sign/candidate |
+| Warung Kopi Niat Sejahtera | Coffee-shop label; reported rating 5.0 stars; described immediately to the right of Bondre Wash Laundry | Rating is platform metadata. Adjacency is from the supplied scene description; exact unit and pin match unresolved |
+| Durian stall — “Durian Asli Palembang Matang Pohon” | Stall reportedly visible to the right of Warung Kopi Niat Sejahtera | Preserve banner wording as an advertising claim, not independent verification of durian origin or ripening method. Stall identity/operator unresolved |
+| Balai Foto | Photo studio / photocopy candidate under the large blue “Pusat Gadai Indonesia” billboard | Re-observation of section G candidate; do not create a duplicate POI |
+| Pusat Gadai Indonesia | Billboard/business name; reported rating 5.0 stars (43 reviews); Durian stall reportedly visible to its left | Re-observation of the billboard already recorded in section G. Do not merge with “Putra Gadai Ceger” from J1/J2 without evidence of common branding, operator, or branch identity |
+
+### J4. Duplicate, conflict, and evidence handling
+
+- **Toko Al-Farid** is a new raw candidate in this intake. Keep it distinct from **Toko Alfario** in section G, despite the similar “Selimut Kerinduan” slogan.
+- **Hengky Jaya** appears repeatedly in the supplied batches; retain as one provisional candidate with multiple reported views, not multiple POIs.
+- **Balai Foto** and **Pusat Gadai Indonesia** are re-observations of names already recorded in section G.
+- **Putra Gadai Ceger** and **Pusat Gadai Indonesia** are separate raw business/sign strings until evidence establishes any relationship.
+- **Samsung Store – Ceger Bintaro** and **RM. Sambal Gandul Mertua** are separate candidate storefronts; “permanently closed” is only a reported listing status.
+- Ratings, review counts, promotional text, prices, hours, and closure labels are platform/banner snapshots, not verified current facts.
+- Passing scooters, a woman wearing a yellow hijab, a black SUV, and other road users are transient scene context only; no personal identity or business association is inferred.
+- No coordinates, stable POI IDs, parcel boundaries, ownership, tenancy, or business succession assigned.
+
+### J5. Intake disposition
+
+- Append these observations to the existing Ceger Raya intake; do not create duplicate records for Hengky Jaya, Balai Foto, or Pusat Gadai Indonesia.
+- Preserve all raw sign and pin names, including uncertain or adjacent signage.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone.
+- Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake / re-observation from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
