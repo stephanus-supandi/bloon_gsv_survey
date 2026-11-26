@@ -152,3 +152,80 @@ The supplied summaries repeatedly use **Kantor Pos Jurangmangu Barat 15423** as 
 - Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional re-observation from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## G. Supplemental Ceger Raya observations — Bloom Residence / Balai Foto / Hengky Jaya / laundry and adjacent shops
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** primarily September 2026  
+**Source:** User-supplied written summary of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATION.
+
+| Provisional candidate / raw visible text | New supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Bakmi Eshan | Noodle-shop corner reportedly at Jl. Ceger Raya 99B; large “BLOOM RESIDENCE” sign prominent; Indomaret and Shop & Drive reportedly visible in background | Bakmi Eshan is described as seen earlier, but no exact pin or frontage match is available here. Bloom Residence sign is a separate residential/development label; background businesses are contextual anchors only |
+| Bloom Residence | Large sign reportedly visible at the corner near Jl. Ceger Raya 99B | Signage alone does not establish exact entrance, developer, management, occupancy, or parcel boundary |
+| Balai Foto | Photo studio / copy-shop label; reported Maps rating 5.0; older shophouse row | Rating is listing metadata. Exact frontage and address not independently established |
+| Pusat Gadai Indonesia | Large blue billboard reportedly towers over the Balai Foto shophouse row | Billboard is contextual signage; it does not establish that Balai Foto is operated by or located inside the pawn business |
+| Adjacent green storefront (unidentified) | Green shopfront next to Balai Foto; yellow menu board visible on door; summary suggests it may be a warteg | Keep as unidentified adjacent storefront. “Warteg” is a tentative visual interpretation, not confirmed business identity |
+| Toko Mebel Hengky Jaya | Furniture shop along Jl. Ceger Raya; reported rating 4.5 stars (11 reviews); large truck with colorful “INN INNAMA” lettering reportedly passed in front; “Ayam Cabe Ijo Ceger” sign partly visible to the right | Re-observation of the Hengky Jaya candidate also described in section I below. Treat the truck as a transient obstruction/context element. Restaurant sign is a separate nearby candidate |
+| Deep And Clean Laundry | Small laundry storefront on Jl. Ceger Raya; road surface reportedly painted “Jl. Ceger Raya”; Gojek rider in green jacket passing | Street marking is contextual evidence; rider is transient scene context and does not establish any relationship with the laundry |
+| Warung Mama Yus | Google Maps pin reportedly identifies this location; described beside the laundry and with a blue “BENERIN HAPE ACE...” sign in the background | Pin label is kept separate from adjacent physical banner text. Phone-service sign may belong to a different storefront |
+| Toko Alfario | Large yellow banner reportedly reads “TOKO ALFARIO – Selimut Kerinduan” | The pin is reportedly Warung Mama Yus while the physical banner names Toko Alfario. Do not assume same operator, shared premises, or that the pin is correctly placed |
+
+### G1. Intake disposition
+
+- Retain the raw business and sign names as separate candidates; no stable POI IDs or coordinates assigned.
+- “Balai Foto” and the adjacent unidentified green storefront remain separate.
+- “Pusat Gadai Indonesia” billboard and “BENERIN HAPE ACE...” background sign are contextual signage only.
+- Do not infer that the passing truck, Gojek rider, or other road users are associated with the businesses.
+- Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## H. Separate geography — Bogor Regency / Cibungbulang / Cinanggung
+
+**Supplement received:** 2026-11-27  
+**Reported imagery dates:** not specified for these views  
+**Source:** User-supplied written summary of a separate screenshot group. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE; separate from the South Tangerang / Ceger Raya observations.
+
+| Provisional candidate / raw visible text | New supplied observation | Evidence limits |
+|---|---|---|
+| San Jaya Bangunan | Building-materials shop described in the Jl. Raya Cibungbulang / Cinanggung area; Shimizu water-pump products reportedly visible; blue public-transport minivan and green truck marked “Pemerintah Kabupaten Bogor” / “Bogor Sehati” in scene | Roadside vehicle and truck markings are transient/contextual. They do not establish government ownership, procurement, or a relationship with the shop |
+| “Xs Ud Xaalsabila” | Raw label supplied exactly as “Xs Ud Xaalsabila”; scene described as a major traffic jam on Jl. Raya Cibungbulang, with orange dump truck, yellow box truck, queued vehicles, and a mosque minaret in the distance | The name may be a pin or transcription and is not normalized. Traffic and minaret are contextual anchors only; exact POI identity/address unresolved |
+| Bengkel Mandiri Motor | Small open-front motorcycle workshop on Jl. Raya Cinanggung; signs for “Audio Mobil” and “Body Repair” reportedly visible farther along the road | Nearby service signs are separate candidates/context; no shared operator or exact address established |
+| Toko Suharti | Modest roadside shop on Jl. Raya Cinanggung with corrugated roof; tires reportedly hanging outside; a man in a yellow shirt riding away | Tires do not conclusively establish that the shop sells automotive parts or provides tire services. Passing motorcyclist is transient context |
+
+### H1. Intake disposition
+
+- Keep this group in its own geographic section; do not append these businesses to the South Tangerang Ceger Raya cluster.
+- Preserve “Xs Ud Xaalsabila” exactly as supplied pending direct inspection.
+- Do not infer government ownership, traffic-cause, business relationships, or service categories from passing vehicles and nearby signs.
+- No coordinates, parcel boundaries, ownership, or stable POI IDs assigned.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## I. Separate rural location observation — “Luhut Binsar Panjaitan Area”
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** October 2026  
+**Source:** User-supplied written summary of a separate map / Street View view. Original screenshot files were not independently inspected.  
+**Status:** UNRESOLVED LOCATION REFERENCE.
+
+| Raw label / candidate | Supplied observation | Evidence limits |
+|---|---|---|
+| “Luhut Binsar Panjaitan Area” | Rural/farm-like setting described with a yellow house, bamboo blinds, garden plot, corn, and banana trees | This is a user-supplied area label, not a verified address, property, or confirmed residence. No evidence supplied establishes that the pictured house or land belongs to Luhut Binsar Panjaitan or is associated with him |
+
+The summary suggests North Sumatra because Luhut Binsar Panjaitan is associated with Siborong-borong. That biographical association is not sufficient to geolocate this particular image. The screenshot could show a different place, a map search result, a pin label, or a scene whose exact location is not visible in the supplied description.
+
+### I1. Intake disposition
+
+- Keep this rural observation separate from both the South Tangerang and Bogor Regency groups.
+- Do not geolocate it to North Sumatra or Siborong-borong without direct map coordinates, a legible address, or other independent location evidence.
+- Do not identify the house, land, occupants, ownership, or personal association with the named public figure.
+- No coordinates, property boundary, ownership, or stable POI ID assigned.
+
+**Evidence status:** unresolved location reference based on a user-supplied written summary only. UNKNOWN remains UNKNOWN.
