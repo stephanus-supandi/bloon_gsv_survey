@@ -580,3 +580,52 @@ The supplied description says the junction labels change across the intersection
 - Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
+
+## R. Supplemental Central Jakarta observations — even-numbered Wahid Hasyim frontage, No. 58–62
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** May 2025  
+**Source:** User-supplied written summary of additional Google Maps / Street View screenshot groups. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS; exact pin placement, frontage-to-address matching, and tenant relationships remain subject to direct frame and map review.
+
+This supplement describes the even-numbered Jl. K.H. Wahid Hasyim frontage west of the Circle K / Jl. Johar corner, toward the reported Jl. HOS Cokroaminoto junction. The supplied sequence covers No. 58, 60, and 62, all reported in RT.7/RW.5, Kebon Sirih, Menteng 10340. Treat the sequence and junction orientation as supplied map/scene context, not a verified measured route or parcel plan.
+
+### R1. Candidates and supplied observations
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| ATM BCA — TB Serba Jaya frontage | A second, unrated ATM BCA pin is reported at a small kiosk/gate associated in the supplied description with TB Serba Jaya, No. 58. Shots 1 and 2 reportedly show the same frontage moment, including the same pedestrian in a white blouse and the same rider | Record as a separate ATM candidate from the ATM BCA described at the Circle K storefront in section Q2. The supplied scene interpretation places this one at the TB Serba Jaya frontage; exact pin-to-booth match and independent ATM identity remain unverified. Do not merge the two ATM pins merely because both display BCA branding |
+| TB. Serba Jaya / Toko Serba Jaya | Re-observation of the building-materials store reported at Jl. K.H. Wahid Hasyim No. 58-7, RT.7/RW.5; listing now reportedly shows alias “Toko Serba Jaya,” rating 4.5 stars (42 reviews), opening 08:00 | Re-observation of section Q2 candidate, not a new POI. Preserve “TB. Serba Jaya” and “Toko Serba Jaya” as supplied name variants. Rating and hours are listing metadata snapshots, not verified current facts |
+| APOTEK ALPRO Wahid Hasyim | Pharmacy with orange signage; reported address Jl. K.H. Wahid Hasyim No. 60ABCD, RT.7/RW.5, Kebon Sirih; supplied summary associates it with the Alpro chain and mentions other outlets on Sabang and Dukuh Atas | Preserve the unusual address string “60ABCD” exactly as supplied. Chain association and other branch references are supplied claims, not independently checked here. Do not infer that every tenant at No. 60 shares an operator |
+| Foto Copy Kilat / COPY KILAT | Copy shop; reported address Jl. Wahid Hasyim No. 60D, RT.7/RW.5; “COPY KILAT” sign reportedly visible below/under the Alpro board | Preserve the No. 60D address and signage as supplied. Possible shared building/complex with Alpro is a multi-tenant hypothesis; it does not establish a common operator or exact unit boundary |
+| PT. Bank Sulselbar Cabang Jakarta | Bank branch candidate; reported address Jl. KH Wahid Hasyim No. 62, RT.7/RW.5, Kebon Sirih; supplied summary says the address appears in the bank’s 2023 annual report and gives branch code 0140028 for KCU Wahid Hasyim | Preserve “PT. Bank Sulselbar Cabang Jakarta” and “KCU Wahid Hasyim” as supplied name strings pending source review. The annual-report/address and branch-code claims have not been independently checked in this intake; do not assume the branch-code label and street-address candidate are identical without source confirmation |
+| BAKSO WAHID | Bakso cart/business candidate; reported at No. 62C and described as “sebelah Bank Sulselbar”; supplied menu/metadata claims include bakso urat around Rp30,000 per bowl, “no pork/no lard,” and daily hours roughly 09:30–21:00 | Preserve the No. 62C and adjacency wording as supplied. Price, dietary claim, hours, and exact cart position are not independently verified. A cart may be mobile or temporary; do not infer a permanent tenancy or parcel assignment from “sebelah” |
+
+### R2. Address sequence and cross-section reconciliation
+
+The supplied frontage sequence is:
+
+- **No. 56:** Circle K “Wahid Hasyim 2” and the ATM BCA candidate described at the Circle K entrance in section Q2.
+- **No. 58:** TB. Serba Jaya / Toko Serba Jaya and a separately described ATM BCA kiosk/booth candidate.
+- **No. 60:** APOTEK ALPRO Wahid Hasyim (reported 60ABCD) and Foto Copy Kilat (reported 60D).
+- **No. 62:** PT. Bank Sulselbar Cabang Jakarta and BAKSO WAHID (reported 62C).
+
+This is a user-supplied address/order summary, not a verified frontage survey. In particular:
+
+- Keep the **two ATM BCA candidates** distinct: one described at Circle K in Q2 and a second described at the TB Serba Jaya kiosk/gate in this section. Their separate pins and reported scene positions are not proof that two independently verified machines exist; direct frame and pin review is still needed.
+- **TB. Serba Jaya** is a re-observation of section Q2, not a duplicate business record. Retain the newly supplied alias, rating, and opening-time snapshot without overwriting the earlier metadata as if one were confirmed current.
+- **APOTEK ALPRO** and **Foto Copy Kilat** carry different reported unit/address strings within No. 60. Record as separate candidates; shared street number or sign stacking does not establish common tenancy or ownership.
+- **PT. Bank Sulselbar** and **BAKSO WAHID** are separate candidates. “Sebelah Bank Sulselbar” is an orientation description, not proof of a fixed stall location or a formal business relationship.
+- The reported HOS Cokroaminoto junction is an orientation endpoint only; no coordinates, measured distance, camera heading, or continuous panorama sequence is available.
+
+### R3. Evidence and intake disposition
+
+- Keep this material in the May 2025 Central Jakarta cluster as a new even-numbered Wahid Hasyim frontage supplement, distinct from the odd-numbered frontage and Jl. Johar material in section Q.
+- Preserve reported addresses, unusual unit strings, business-name variants, the two ATM candidates, and the re-observation of TB. Serba Jaya without resolving uncertain pin/building relationships.
+- The claimed BCA branch saturation, branch code, bank annual-report reference, Alpro chain relationships, ratings, opening hours, menu, prices, and dietary claims are supplied assertions; citation placeholders such as “[27]”, “[13]”, and “[3]” were not accompanied by URLs or bibliographic details and are not treated as independently verified sources.
+- The “~35 pins” and “signature pattern” conclusions are user-supplied interpretations, not independently audited counts or findings. Multiple tenants at one street number are a plausible pattern in the supplied examples, but each individual unit and tenant relationship remains provisional.
+- No coordinates, stable POI IDs, parcel boundaries, verified walking distances, ownership, tenancy, or business succession assigned.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
