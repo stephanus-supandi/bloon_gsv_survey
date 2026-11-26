@@ -118,3 +118,37 @@ The supplied summaries repeatedly use **Kantor Pos Jurangmangu Barat 15423** as 
 - Original screenshots, exact image references, coordinates, camera headings, and panorama sequence are not available in this intake.
 
 **Evidence status:** provisional intake from user-supplied screenshot summaries only. Original screenshots were not independently inspected. UNKNOWN remains UNKNOWN.
+
+
+## F. Supplemental re-observation — Shop & Bike / Warkop Al Barokah / Toko Sahabat / Smart Laundry / Mega Ponsel
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** Additional user-supplied written summary of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL RE-OBSERVATION; not a new location batch or verified POI update.
+
+| Provisional candidate | New supplied observation | Reconciliation / evidence limits |
+|---|---|---|
+| Shop & Bike – Ceger | Repeated view of motorcycle shop beside Toko Kian Laris Plastik 2; tires and blue barrel reportedly visible | Re-observation of the existing candidate in B2. Do not create a duplicate POI |
+| Warkop Al Barokah | New Maps metadata reported as 4.0 stars (16 reviews), open 24 hours, price range Rp1–100,000; physical banner identifies “Nomer Satu” drinks/snacks and slogan “Sueeger dan Kenyaang” | Earlier summary reported 4.1 stars (12 reviews), hours until 1:30 am, and price range Rp25,000–50,000. Preserve both as separate reported metadata snapshots; do not silently overwrite or assume which is current. “Warkop Al Barokah” and “Nomer Satu” remain separate name strings pending exact pin/sign relationship |
+| Toko Sahabat | New Maps metadata reported as 5.0 stars (1 review), open 24 hours; described next to a cake shop with “Hiebio Cake” banner and red A-frame “35.000 ANEKA BOLU” | Earlier summary associated Toko Sahabat with “Alicia Cake” banner. Record the newly reported “Hiebio Cake” text as a variant / conflicting signage observation. Do not assume Hiebio Cake and Alicia Cake are the same business or that Toko Sahabat operates the bakery |
+| Ayesha / Smart Laundry | Maps pin reportedly labelled “AYESHA”; physical blue sign reportedly reads “SMART LAUNDRY”; offer transcribed as “Cuci Tanpa Timbang” Rp10,000; “Jl. Ceger Raya” reportedly painted on road surface | Re-observation of existing candidate in B2. Preserve pin label and physical signage separately. Price is an advertised snapshot, not verified current tariff |
+| Mega Ponsel | Maps listing reportedly rated 4.2 stars (20 reviews); mobile-phone shop with Vivo branding reportedly visible; described across the street or near Brothers Kebab | Completes the previously truncated name-only entry in B2. Exact storefront, address, and pin-to-sign match still require original-frame review |
+
+### F1. Metadata and name conflicts to retain
+
+- **Warkop Al Barokah:** reported listing snapshots differ (4.1 / 12 reviews / until 1:30 am / Rp25,000–50,000 versus 4.0 / 16 reviews / 24 hours / Rp1–100,000). These may reflect different capture times, listing edits, or pin ambiguity; no cause is established.
+- **Cake-shop signage:** previous summary transcribed **Alicia Cake**; this supplemental summary transcribes **Hiebio Cake**. Retain both raw readings until the screenshot text can be inspected directly.
+- **Toko Sahabat:** reported as a Maps business label; the adjacent cake-shop banner is not proof of shared ownership or operation.
+- **Mega Ponsel / Vivo:** branding is a visual sign observation only; it does not establish an official Vivo dealership.
+- **Street name painted on road:** contextual location evidence only; it does not by itself geolocate every nearby storefront.
+
+### F2. Intake disposition
+
+- Treat this as an additional observation of existing candidate locations, not a new set of POIs.
+- Update the provisional Mega Ponsel description, while retaining the original note that the earlier summary was truncated.
+- Preserve Warkop metadata differences and Alicia/Hiebio signage differences as unresolved conflicts.
+- Do not change coordinates, ownership, tenant relationships, stable POI IDs, or master CSV records from this text summary alone.
+- Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional re-observation from user-supplied written summary only. UNKNOWN remains UNKNOWN.
