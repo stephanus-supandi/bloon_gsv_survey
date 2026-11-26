@@ -629,3 +629,60 @@ This is a user-supplied address/order summary, not a verified frontage survey. I
 - Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+## S. Supplemental Jakarta observations — SCBD satellite and Menteng odd-numbered Wahid Hasyim frontage
+
+**Supplement received:** 2026-11-27  
+**Reported imagery dates:** mixed snapshots, November 2022; August 2024; April 2025; Menteng batch reported May 2025. The exact date-to-frame mapping is only as described in the supplied summary.  
+**Source:** User-supplied written summary of Google Maps / Street View screenshot groups. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS; exact pin placement, frontage matching, building/tenant relationships, and source claims remain subject to direct frame and source review.
+
+This supplement contains two geographically separate groups: (1) a South Jakarta SCBD corporate/retail satellite and (2) a return to the Central Jakarta Menteng loop, covering the odd-numbered Jl. K.H. Wahid Hasyim frontage around Nos. 43–55. Keep them as separate geographic layers/subclusters. Do not interpret the order in this combined submission as one continuous walking route.
+
+### S1. SCBD / Senayan / Kebayoran Baru satellite — South Jakarta
+
+The supplied summary places this group in SCBD, Senayan, Kebayoran Baru, South Jakarta 12190. It describes frames with reported dates spanning November 2022 to April 2025. A lamp-post banner reading “BSI Global Islamic Finance Summit 2025” and naming Ritz-Carlton Pacific Place is offered as a date-context clue for one frame; it does not independently date the other frames.
+
+| Provisional candidate / raw visible text | Supplied observation and reported address | Evidence limits / reconciliation |
+|---|---|---|
+| Galeria SCBD | Described as an open-air retail/F&B gallery, reported at SCBD Lot 6, Jl. Jend. Sudirman Kav. 52–53 No. 6, RT.5/RW.3, Senayan. The pin is described on a landscaped boulevard in front of a low-rise complex. Tenant examples supplied include Spin Warriors, Chan Chan Korean BBQ, and Gudeg Mercon Bu Prih | Treat Galeria SCBD as a complex/place candidate, not as one individual shop. The listed tenants are separate tenant/business candidates, not proof of a single operator or a complete tenant roster. Supplied citations [1], [5]–[8] have no URLs or bibliographic details in this intake |
+| PT HM Sampoerna Tbk — One Pacific Place | Described as the company’s Jakarta head office at One Pacific Place, 18th floor, SCBD, Jl. Jend. Sudirman Kav. 52–53. “OFFICE LOBBY” canopy is interpreted as the tower drop-off; Jl. Tulodong Atas 2 is described as a service lane beside the complex | Preserve the reported office/tower association as a supplied claim. The corporate group/brand associations and IDX address reference [9], [12] are not independently checked here. A road label beside a building does not by itself establish the entrance or parcel address |
+| Livespace @ Lot 8 | Described as a live-music/event venue at Lot 8 SCBD, RT.5/RW.3, Senayan, 12190. The dark building with patterned metal screens is associated in the supplied summary with “Lot 8” parking signs. Gig examples supplied include Kahitna and DPR Live’s CTYL tour stop | Record as a venue candidate and preserve the visual association as reported. Event history and artist appearances referenced by [18], [21], and [23] are not independently verified in this intake |
+| Indonesia Eximbank — Head Office / LPEI | Described as the state export-financing agency’s head office at Jl. Jend. Gatot Subroto Kav. 36–38, Jakarta 12190. November 2022 frame reportedly shows a concrete lattice-block tower and white roof, interpreted as older campus buildings | Keep the institutional identity/address claim separate from the visual building interpretation. The annual-report reference [26] was not supplied as a URL or document in this intake; the precise building-to-frame match remains provisional |
+| Google Jakarta / Google Indonesia | Described as an office inside the Pacific Place tower above the mall. The supplied summary notes partial lettering “…FICY PLA…” and a Citi tenant sign on glass; a visitor post is said to place the office on the 45th floor. Listing metadata reportedly shows 4.4 stars and 4,544 reviews, with “Closed · Opens 9 am” | Treat the tower/floor association and visitor-post claim as supplied, not independently verified. Rating, review count, and hours are listing metadata snapshots and do not establish public access or an independently verified office entrance. Partial lettering is not sufficient by itself to confirm the exact tenant or floor |
+
+### S2. Central Jakarta — odd-numbered Jl. K.H. Wahid Hasyim frontage, Nos. 43–55
+
+**Reported imagery date:** May 2025.  
+This is a return to the Menteng loop and the frontage opposite the even-numbered Nos. 48–62 group recorded in sections Q and R. The supplied summary describes TB. Serba Jaya No. 58 as a cross-street/scene anchor in the opening shot; it is not part of the odd-numbered frontage and is a re-observation of the section Q/R candidate.
+
+| Provisional candidate / raw visible text | Supplied observation and reported address | Evidence limits / reconciliation |
+|---|---|---|
+| TB. Serba Jaya / Toko Serba Jaya | Re-shoot of the building-materials store reported at No. 58; same white CR-V and rider are described as appearing again in the frame | Re-observation only, not a new POI. Vehicle and rider are transient scene anchors; they do not establish identity, ownership, or a business relationship |
+| WH47 / Gedung WH47 complex; The Bulkstore & Co | Facade reportedly displays “WH47”; building reported at Jl. KH Wahid Hasyim No. 47. A “grocery store” pin is interpreted as The Bulkstore & Co, described as a zero-waste bulk grocery | Keep the building/complex candidate distinct from its tenant candidate. The mapping of the grocery pin to The Bulkstore & Co is a supplied interpretation and needs direct pin/frame review. The description “pioneering” is a supplied characterization, not verified here |
+| Burgreens | Reported as another tenant in Gedung WH47; plant-based restaurant | Separate tenant candidate within the reported complex. No common ownership or operator relationship with The Bulkstore & Co is inferred |
+| Youth & Beauty Clinic | Reported at level 2 of Gedung WH47 | Separate tenant candidate; floor and building association are supplied claims pending direct verification |
+| The Bike Brothers | Reported as a used-motorcycle showroom in the same Gedung WH47 complex | Separate tenant candidate; no connection to the grocery pin or wellness review text is inferred |
+| Erian Hotel | Reported 3-star hotel at Jl. K.H. Wahid Hasyim No. 45, RT.1/RW.4, Gondangdia, Menteng 10350. Listing reportedly shows 4.7 stars / 3,089 reviews; a “level 9 skyline views” hint is associated with its rooftop. A blue-umbrella street vendor is described in front of the fence | Hotel identity/address and rooftop interpretation are supplied claims. Pink-bed and red pins are interpreted as the same hotel through parallax; retain as a possible same-place pin/re-observation, not a confirmed duplicate without pin IDs and frame review. Vendor position is contextual only and does not establish tenancy |
+| SMARTDEAL Money Changer Wahid Hasyim | Reported forex counter at Jl. K.H. Wahid Hasyim No. 43, RT.1/RW.4, Gondangdia; supplied summary mentions Smartdeal branches elsewhere and a CNBC quotation about this outlet | Record as a separate business candidate. Chain affiliation, branch list, reputation, and CNBC reference [9], [14], [15] are not independently checked here |
+| SAVA Beauty & Wellness — Menteng | Reported at E-Trade Building, ground floor, Jl. KH Wahid Hasyim No. 55, Gondangdia, Menteng. Supplied summary describes a clinic chain operating since 2010 and reports a 5.0-star / 65-review card; partial maroon “SA…” signage is described behind a tree | Keep the business candidate distinct from the E-Trade Building candidate. Chain history, certification, rating, review count, and exact sign-to-business match are supplied claims pending source/frame review |
+
+### S3. Geographic, address, and cross-section reconciliation
+
+- Keep the **SCBD satellite (S1)** separate from the **Menteng odd-numbered frontage (S2)**. They are not one cluster or a continuous route. For mapping/audit purposes, use separate geographic layers or subclusters.
+- Within S1, distinguish complexes/buildings from individual tenants: Galeria SCBD and its named tenant examples; One Pacific Place and PT HM Sampoerna; the Lot 8 building/parking context and Livespace; Pacific Place and the reported Google office; and the Eximbank campus and the institutional head-office candidate.
+- Within S2, retain Gedung WH47 as a complex candidate and The Bulkstore & Co, Burgreens, Youth & Beauty Clinic, and The Bike Brothers as distinct reported tenant candidates. Do not merge them into one “grocery store” POI or infer common ownership.
+- Keep Erian Hotel at reported No. 45, WH47 at No. 47, SMARTDEAL at No. 43, and SAVA at No. 55 as separate candidates. The supplied street-number sequence is not a verified parcel/frontage survey.
+- The reported administrative distinction — odd-numbered frontage from approximately No. 43 westward in Kelurahan Gondangdia (10350), while the even-numbered frontage is reported in Kebon Sirih (10340) — is preserved as a supplied claim. No independent boundary or postal-code verification was performed. Street-number parity alone does not prove a kelurahan boundary.
+- TB. Serba Jaya No. 58 remains a re-observation of sections Q/R and a scene anchor for S2, not an odd-side candidate or new POI.
+- The supplied Menteng pin sequence (17A, 29, 31A, 37/39, 43, 45, 47, 55 on the odd side; 38, 48, 50A, 56, 58, 60, 62 on the even side, plus Srikaya alleys and Jl. Johar) is a user-supplied inventory/order summary. The claimed total of approximately 40 pins is not independently counted or audited.
+- Listing ratings, review counts, hours, office floors, tenant lists, event appearances, company affiliations, corporate addresses, clinic certifications, chain histories, and date interpretations are supplied claims or metadata snapshots. Citation placeholders such as “[8]”, “[12]”, “[21]”, “[32]”, and “[37]” were provided without URLs or full bibliographic details and are not treated as verified citations.
+- No coordinates, stable POI IDs, parcel boundaries, verified walking distances, ownership, tenancy, legal relationships, or business succession assigned. No claims about individual people, vehicles, or riders inferred from transient scene context.
+
+### S4. Intake disposition
+
+- Preserve S1 and S2 as separate geographic groups within the broader Jakarta intake. Do not merge either with the South Tangerang or Bogor observations in this file.
+- Retain raw business/building names, reported addresses, tenant lists, date ranges, and uncertainty. Re-observations remain linked descriptively to earlier candidates without creating duplicate POIs.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
