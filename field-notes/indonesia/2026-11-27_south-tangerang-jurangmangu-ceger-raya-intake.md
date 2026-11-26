@@ -515,3 +515,68 @@ The three supplied groups are described as covering the Kebon Sirih / Menteng po
 - Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
+
+## Q. Supplemental Central Jakarta observations — Wahid Hasyim odd-numbered row / Gondangdia junction / Jl. Johar
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** May 2025  
+**Source:** User-supplied written summaries of additional Google Maps / Street View screenshot groups. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS; exact pin placement, storefront-to-address matching, and tenant relationships remain subject to direct frame and map review.
+
+This supplement extends the Central Jakarta material in section P. It describes the opposite (odd-numbered) Wahid Hasyim frontage, additional businesses around the Gondangdia junction, and a southward continuation onto Jl. Johar. Keep these sub-areas distinct within the broader May 2025 Central Jakarta cluster. The supplied street numbers and sequence are orientation claims, not a verified cadastral or continuous panorama reconstruction.
+
+### Q1. Wahid Hasyim odd-numbered frontage — No. 50A / 39 / 37 / 31A
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Wahid Jaya Fotocopy | Copy shop; reported address Jl. K.H. Wahid Hasyim No. 50-A, RT.14/RW.6, Kebon Sirih, Menteng 10340; listing reportedly opens 06:30 | Same reported RT/RW as Toko Sinar Bali (section P3), but shared neighborhood unit does not prove same building, frontage, or operator. Address and hours remain supplied listing data |
+| LARIS TOKO | Small general-store candidate in the junction row; Maps category reportedly “Store”, opening 07:30; no reliable street number supplied | Retain the raw label and category. Do not invent an address or infer a specific business identity from the common word “Laris”. The two supplied views are described as the same façade moment from different angles; treat repeated Mini Jaya signage and white van as one scene re-observation |
+| Cahaya Semesta | Auto-repair shop; reported address Jl. K.H. Wahid Hasyim No. 39, RT.16/RW.6, Kebon Sirih; reported 5.0 stars (4 reviews), opens 09:00 | Address is also assigned in the supplied material to RM Sinar Minang Jaya III (Q2). Preserve this address collision as a multi-tenant / pin-address ambiguity; do not decide which frontage or unit belongs to which listing |
+| Tiga Saudara | Car-service workshop (“bengkel servis mobil”); reported address Jl. K.H. Wahid Hasyim No. 37, Gondangdia, Menteng; reported 5.0 stars (4 reviews) | Described as next door to Cahaya Semesta. The two views reportedly show the same Street View instant (green-scooter rider, grey Toyota Rush, white lattice fence); this is a shared scene clue, not independent proof of exact pin separation or tenant boundaries |
+| Ida Murtamsa Salim, S.H., M.KN | Notary / PPAT office candidate; reported address Jl. K.H. Wahid Hasyim No. 31A, Menteng 10340; supplied summary gives phone +62 21 31927945 and mentions an Instagram location page and a 2022 corporate deed | Record as a professional-office candidate, not a retail shop. Credentials, phone, Instagram association, deed reference, current office occupancy, and exact compound frontage have not been independently checked here. A reported address sequence between Hotel Paragon No. 29 and workshops No. 37–39 is not proof of parcel boundaries or continuous frontage |
+
+### Q2. Gondangdia junction / additional Wahid Hasyim corner candidates
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| RM Sinar Minang Jaya III | Padang restaurant; reported address Jl. K.H. Wahid Hasyim No. 39, RT.16/RW.6, Menteng; reported hours 07:00–03:00, rating 4.3 stars (186 reviews), price Rp25,000–50,000 | No. 39 is also reported for Cahaya Semesta in Q1. Preserve both candidates and the address collision; do not assume one listing is erroneous or that a single address means one tenant |
+| TB. Serba Jaya / Toko Serba Jaya | Building-materials shop; reported address Jl. K.H. Wahid Hasyim No. 58-7, RT.7/RW.5, Kebon Sirih; phone 021-3144138; described at a fenced corner plot near a traffic light | “TB” expansion to toko bangunan is a category interpretation. Preserve the reported name/address/phone; exact plot and relation to Circle K require direct pin/frame review |
+| Circle K — “Wahid Hasyim 2” | Convenience-store branch; reported address Jl. Wahid Hasyim Raya No. 56; described beside Toko Serba Jaya; reported 24-hour operation and rating 4.4 stars (603 reviews); green KÖRNER board and kebab/food-corner clues | Branch identity, address, hours, rating, and food-corner association are supplied listing/signage claims, not independently verified current facts. Do not treat a nearby Circle K and Serba Jaya address as proof of a shared parcel |
+| ATM BCA | Blue “ATM BCA” sign reportedly above the Circle K entrance; described as an ATM kiosk associated with that storefront; reported 5.0 stars (2 reviews) | Record as an ATM/sign candidate, not automatically as a separate business or independently verified BCA-operated facility. Co-location with Circle K is a supplied scene interpretation pending frame review |
+| Warteg Raji | Re-observation of the same reported 3.4-star / 14-review, 24-hour warteg listing, now viewed from the Jl. Johar approach; Lawson canopy and a parked Hyundai Ioniq 5 reportedly visible | Re-observation of section P3 candidate, not a new POI. Preserve the reported listing metadata snapshot. The pin reportedly floats near corner parking; Street View parallax is a possible explanation, not a verified pin-placement diagnosis |
+| Lawson / Lawson Station | Blue milk-can “LAWSON STATION” sign reportedly identifies a Lawson outlet in the Gondangdia-corner area | Record the visible brand/sign as a separate candidate. Do not infer that Warteg Raji occupies Lawson premises or shares an operator |
+
+The supplied description says the junction labels change across the intersection between Jl. Kebon Sirih Timur Dalam and Jl. Johar, and that a green direction sign points toward Sabang, Tanah Abang, and Stasiun Gondangdia. Retain these as reported street-sign/orientation observations. They do not independently establish the exact legal road boundary or the complete geometry of the intersection.
+
+### Q3. South leg — Jl. Johar, Gondangdia
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Warkop Segitiga | Re-observation of the cafe candidate from section P3, now described from the Lawson-corner parking lot / Jl. Johar approach; listing reportedly 3.8 stars (10 reviews) | Re-observation, not a new POI. The name’s connection to the triangular junction is an interpretation; exact frontage remains unverified |
+| Victory Hotel Laundry Cafe & Resto / Victory Hotel / Victory Laundry & Dry Cleaning | Hotel and laundry/restaurant candidate; reported address Jl. Johar No. 23, RT.5/RW.6, Gondangdia, Menteng 10350; facade reportedly carries “SINCE 1950” wording for Victory Laundry & Dry Cleaning | Preserve the distinct visible/listing name strings. The claim that hotel and laundry are operated as one business by Victory Corp, and the claimed 1950 start date, are not independently verified in this intake |
+| Ya Udah Bistro | German-style bistro; reported address Jl. Johar No. 15, Gondangdia, Menteng; supplied summary says established in 2001; reported rating 4.4 stars (3,502 reviews) and mentions pork knuckle / beer | Address, founding year, menu, rating, and review count are supplied claims. Alcohol/menu details are descriptive only; do not infer current availability or operating status |
+| Widosari / Widosari Tailor | Tailor; reported address Jl. Johar No. 28, Menteng; red storefront reportedly below a green “JL. JOHAR” street sign; “Tailor since 1947” wording and custom/rental suits and uniforms described | Preserve the “since 1947” claim as sign/summary wording, not independently established business history. Do not infer uninterrupted operation or ownership succession |
+| Dreamtel Hotel Jakarta | Hotel candidate; reported address Jl. Johar No. 17–19, Menteng, Jakarta Pusat; described near Ya Udah Bistro No. 15 and Victory No. 23 | The pink bed pin and facade pin are described as the same building; retain as a supplied same-building hypothesis pending pin/frame inspection. Nearby hotels and street numbers do not establish operator or exact property boundaries |
+
+### Q4. Cross-section reconciliation and evidence limits
+
+- Section P and this section Q are both reported as May 2025 Central Jakarta material, but Q adds distinct odd-numbered Wahid Hasyim frontage, junction-corner candidates, and the Jl. Johar south leg. Do not collapse all of them into one exact ordered route without original panorama sequence, camera headings, and coordinates.
+- **Cahaya Semesta** and **RM Sinar Minang Jaya III** both carry the supplied address No. 39. Keep both candidates and mark the address conflict; do not resolve it by choosing one listing.
+- **Wahid Jaya Fotocopy** (No. 50A) and **Toko Sinar Bali** (No. 48A-16) share a reported RT/RW but are not thereby proven to be in the same building or on the same parcel.
+- **Circle K** (reported No. 56), **Toko Serba Jaya** (reported No. 58-7), and **ATM BCA** are separate candidate/sign records. Their corner adjacency and co-location remain subject to direct image and pin review.
+- **Warteg Raji** and **Warkop Segitiga** are re-observations of section P3 candidates, not new POIs. **Lawson** is a separate visible-brand candidate; no tenancy relationship is inferred.
+- **Victory Hotel**, **Victory Laundry & Dry Cleaning**, and “Victory Hotel Laundry Cafe & Resto” are retained as supplied name strings pending verification of whether they refer to one operator, a shared property, or distinct services.
+- The reported sequence No. 15 / 17–19 / 23 / 28 on Jl. Johar is retained as orientation only. It does not prove exact frontage continuity, walking distance, or a single property row.
+- Ratings, review counts, opening hours, prices, phone numbers, founding-year claims, corporate associations, and professional credentials are supplied listing/sign/source claims, not independently verified here. Citation placeholders such as “[1]”, “[18]”, and “[37]” were supplied without URLs or bibliographic details and are not treated as verified citations.
+- Vehicles, riders, traffic lights, direction signs, parked cars, and street furniture are contextual scene anchors only. No vehicle ownership, personal association, or business relationship is inferred.
+- No coordinates, stable POI IDs, parcel boundaries, verified walking distances, ownership, tenancy, or business succession assigned.
+
+### Q5. Intake disposition
+
+- Keep this material within the May 2025 Central Jakarta intake, linked descriptively to section P but separated into the Q1 Wahid Hasyim odd-numbered frontage, Q2 junction, and Q3 Jl. Johar subgroups.
+- Preserve raw labels, reported addresses, address collisions, and possible same-scene re-observations. Do not present the supplied “fully mapped” or “~30 pins” statements as independently verified completeness.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone.
+- Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
