@@ -294,3 +294,74 @@ The Galaxy A17 / A17 5G advertisement is a visible product-generation clue, but 
 - Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake / re-observation from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
+
+## K. Separate geography — Central Jakarta / Menteng–Thamrin
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** May 2025  
+**Source:** User-supplied written summary of Google Maps / Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE; separate from the South Tangerang / Ceger Raya and Bogor Regency groups.
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits |
+|---|---|---|
+| Subway Menara Cakrawala | Subway sandwich-shop branch reportedly in Menara Cakrawala on Jl. M.H. Thamrin, near Djakarta Theater; listing reportedly says open 24 hours; Djakarta Theater XXI and Planet Sports Asia signs visible in background | Opening hours are listing metadata, not independently verified. Background signs are landmarks only; exact unit and pin-to-store match not inspected |
+| Djakarta XXI / Djakarta Theater | Cinema at Jl. M.H. Thamrin No. 59; distinctive dark angular facade described | Preserve both supplied name forms. Historical significance and “one of the oldest” characterization are not independently assessed in this intake |
+| Starbucks Djakarta Theater | Starbucks branch reportedly at the Djakarta Theater corner; Garnier billboard visible across the street; “Jl. M.H. Thamrin” road marking reportedly visible | Billboard and road marking are contextual anchors. Exact storefront/address binding not independently checked |
+| Institut Français Indonesia | Cultural centre / language-school label at Jl. Menteng Raya No. 25; white building and secure gate described | Record the supplied institution name and address; do not infer specific programs, operating status, or access arrangements from facade description |
+| Sinar Mas Land Plaza Thamrin / Plaza Thamrin | Office-building entrance reportedly at Jl. M.H. Thamrin Kav. 9, with distinctive red canopy; several Gojek riders in green jackets waiting outside | Preserve both supplied building-name strings. Riders are transient scene context; their presence does not establish an official pick-up point, employment relationship, or building affiliation |
+
+### K1. Intake disposition
+
+- Keep this May 2025 Central Jakarta group geographically and temporally separate from all September 2026 Ceger Raya material.
+- Retain the supplied addresses and names as provisional labels; no coordinates, parcel boundaries, or stable POI IDs assigned.
+- The presence of Gojek riders, billboards, and neighboring business signs is contextual evidence only.
+- Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## L. Supplemental Ceger Raya observations — McDonald’s / Bondre Wash / Difha Production / Nely Salon
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** User-supplied written summaries of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS.
+
+### L1. Food, retail, and service frontage
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| McDonald’s Ceger | Standalone fast-food outlet with drive-thru; exit sign reportedly reads “TERIMA KASIH -> KELUAR” | Sign wording and outlet form are user-transcribed. Exact address, pin match, and current operating status not independently checked |
+| Bagus | Small shop / stall beside ChickRoll Pipou; described as possibly a general store | Keep as an uncertain raw candidate; exact business category and sign-to-frontage match unresolved |
+| ChickRoll Pipou | Red storefront sign reportedly reads “ChickRoll Pipou”; described as a food/snack outlet | Preserve visible name; product interpretation is tentative unless supported by legible menu/signage |
+| Basi Aci Mang Ojak | Small food shop with green metal gate; reported Maps rating 5.0 stars; described beside Bondre Wash Laundry | Rating is listing metadata. “Basi Aci” is preserved exactly as supplied; do not silently normalize the spelling to another dish name |
+| Bondre Wash Laundry | Re-observation of laundry previously recorded in section J3; sign reportedly reads “Bondre Wash Laundry” and “Delicate Wash”; red banner advertises Rp6,000/kg and “Cuci Cepat 1 x 24 Jam” | Existing candidate, not a new POI. Preserve the repeated price/banner wording as an imagery-time observation, not a verified current tariff or turnaround guarantee |
+| “Evo” sign / adjacent shop | Small shop with “Evo” sign reportedly next to Bondre Wash Laundry | Re-observation of the adjacent sign mentioned in J3; exact business name and category remain unknown |
+| Difha Production | Small roadside workshop / tailor candidate; listing thumbnail reportedly shows a uniform with “PURNA” text and Indonesian flag patch; later summary reports hours until 10:00 pm | Record the thumbnail and hours as supplied metadata. “PURNA” does not establish Purnawirawan, a specific organization, official status, or the workshop’s customer base |
+| Nely Salon | Business label described as salon / massage-therapy service; reported rating 4.5 stars (8 reviews) and hours until 11:00 pm; appears in repeated views of the same street scene | Preserve the category wording as uncertain. Ratings and hours are listing metadata; exact frontage and pin match need original-frame review |
+| Sambel Lesehan Akang | Food stall / lesehan scene with red cart and red umbrella; people reportedly seated on the ground | People and stall setup are transient scene observations; exact business pin, operator, and whether this is a permanent or temporary setup are unresolved |
+| “DIKONTRAKAN 0852 8834 9222” | Large yellow/red rental banner reportedly above or near Sambel Lesehan Akang | Preserve the phone number only as user-transcribed visible sign text; the banner does not prove which building/unit is offered or that the food stall is the tenant |
+| MAT DUKI | Raw business/map label reportedly appears in a wider Jl. Ceger Raya view | Exact business category, storefront, and pin-to-sign match unresolved |
+| “Toko… Elektronik” | Partial blue banner reportedly visible to the left in the MAT DUKI view | Keep as a separate partial signage observation; do not assume the electronics shop is MAT DUKI or assign a complete name |
+
+### L2. Repeated-scene and identity handling
+
+- **Bondre Wash Laundry** is an existing candidate from section J3; this batch is a re-observation, not a duplicate POI.
+- **Difha Production** appears in more than one supplied view; retain one provisional candidate with multiple observations.
+- **Nely Salon** is described in repeated images, including shared passing pedestrians/vehicles and nearby stalls. Repeated scene elements support a possible same-scene re-observation but do not independently establish the exact mapped storefront.
+- **MAT DUKI** and the partial “Toko… Elektronik” banner remain separate unresolved strings.
+- The “PURNA” thumbnail does not establish the meaning of the word or the identity/affiliation of the uniform shown.
+- A woman walking past, people eating, passing motorcycles/cars, and other road users are transient scene context only. No personal identities or business relationships inferred.
+- Ratings, hours, prices, and listing categories are metadata snapshots as reported, not verified current facts.
+
+### L3. Intake disposition
+
+- Keep this Ceger Raya group separate from the May 2025 Central Jakarta group in section K.
+- Append new candidates and observations without duplicating Bondre Wash Laundry or Difha Production.
+- Preserve ambiguous names, partial signs, and uncertain categories verbatim.
+- Do not infer rental occupancy, organizational affiliation, official uniform production, or business ownership.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone.
+- Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake / re-observation from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
