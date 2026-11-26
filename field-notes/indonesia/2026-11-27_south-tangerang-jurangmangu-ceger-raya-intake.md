@@ -365,3 +365,89 @@ The Galaxy A17 / A17 5G advertisement is a visible product-generation clue, but 
 - Original screenshot files, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake / re-observation from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
+
+## M. Supplemental Ceger Raya observations — Melodi Indah Electronic / Sumatera Tailor / Abadi Jaya Motor
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** User-supplied written summary of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATION; no verified POI changes.
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Melodi Indah Electronic | Electronics/appliance shop; reported rating 3.9 stars (31 reviews); banner reportedly shows Sharp, Toshiba, and Sanken brands; goods boxes stacked outside; a large white box truck partly blocks the frontage | Preserve the business name and brand names as transcribed. Rating/review count are reported listing metadata. The truck and stacked boxes are scene context, not proof of delivery, ownership, or supplier relationships |
+| Sumatera Tailor | Tailor shop reportedly adjacent to Melodi Indah Electronic; red banner says “Menerima Berbagai Macam Jahitan Busana Pria & Wanita” and lists jas, blazer, safari, kebaya, baju seragam, and celana | Service wording is transcribed from the supplied summary. Adjacency does not establish shared ownership or premises. The same white truck is a transient scene element |
+| ABADI JAYA MOTOR | Motorcycle-parts shop; reported rating 4.9 stars (39 reviews); described near the Jl. H. Sarmili intersection; “Jl. Ceger Raya” reportedly painted on the road | Retain as one provisional candidate. It reappears in section N below; treat that appearance as a re-observation, not a second POI. Rating is listing metadata; exact pin/frontage match and intersection geometry need original-frame review |
+
+### M1. Scene and evidence handling
+
+- The white box truck, motorcycles, and black Honda car are transient road-scene elements. Their presence does not establish business ownership, deliveries, or a relationship among nearby shops.
+- The reported congestion is a description of the supplied frames only; it does not establish typical traffic conditions or a road classification.
+- The reported position near Jl. H. Sarmili is retained as a visual-location clue, not a verified coordinate or parcel assignment.
+- No coordinates, stable POI IDs, parcel boundaries, ownership, tenancy, or business succession assigned.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## N. Supplemental Ceger Raya observations — Pempek Eren / Leman Motor / Mitra Juwi / Independence banner
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** User-supplied written summary of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS.
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Pempek Eren | Small food shop/stall reportedly near the entrance to Gg. Ambin; an orange cart with “Dimsum Mental” text and a black Mitsubishi L300 are also described nearby | Preserve “Pempek Eren” and “Dimsum Mental” as separate raw name strings. The cart's operator and relationship to the pempek shop are unresolved; the L300 is transient scene context |
+| “Sambal Seruit Indo...” | Partial yellow sign reportedly advertises sambal seruit | Retain the incomplete text exactly; do not complete the business name or infer its operator, address, or menu beyond the visible wording |
+| “Las Karbit” | Small roadside cart reportedly advertises acetylene welding (“Las Karbit”) | Record as a service/sign candidate. Exact operator, location, and whether the cart is permanent or temporary are unresolved |
+| Leman Motor | Motorcycle dealer/workshop candidate; reported rating 3.0 stars and listing status “Closed (Opens 9:00 am Sunday)” | Preserve category as tentative (“dealer/workshop”). Rating, hours, and closure status are listing metadata snapshots, not verified current status |
+| TB Mitra Juwi | Building-materials shop; reported rating 4.3 stars (23 reviews); white concrete blocks described outside; banner reportedly reads “Mortarnya Jagoan” | “Hebel” / AAC interpretation of the blocks is tentative from appearance as described. Rating and review count are platform metadata; product banner is advertising text, not proof of manufacturer or supply relationship |
+| ABADI JAYA MOTOR | Same motorcycle-parts shop from section M, reported from a reverse-looking street view toward TB Mitra Juwi and the independence banner | Re-observation of section M candidate; do not create a duplicate POI. Relative direction is retained as described, not converted into coordinates or a verified route |
+
+### N1. Independence banner and date caveat
+
+A large banner spanning the road reportedly reads **“Dirgahayu Republik Indonesia 81th.”** Since Indonesia proclaimed independence in 1945, the 81st anniversary corresponds to 2026. This is consistent with the user-reported September 2026 imagery date, but it does **not** independently establish the exact Street View capture date: a banner may remain displayed beyond the anniversary, and the original Street View date badge was not inspected. Preserve the wording “81th” as reported rather than silently correcting the sign.
+
+### N2. Scene and evidence handling
+
+- The orange cart, Mitsubishi L300, road users, and traffic are contextual/transient elements; no operator, ownership, or business relationship inferred.
+- The banner is a time-context clue only, not proof that every nearby frame was captured on a specific day.
+- Do not infer that all listed businesses occupy one continuous block solely because they appear in the same road-level batch.
+- No coordinates, stable POI IDs, parcel boundaries, ownership, tenancy, or business succession assigned.
+
+**Evidence status:** provisional intake / re-observation from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## O. Supplemental Ceger Raya observations — El-Fash / Manunggal Sakti / Sinar Pasifik / KIA Hardware
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** User-supplied written summary of Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE; candidate identity and frontage relationships remain subject to frame review.
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Elfash Mutiara Cipta | Maps pin reportedly appears near the front gate/office area of the school complex; reported rating 1.0; a BRI ATM sign is described nearby | Preserve the pin label and reported rating as platform data. The ATM sign is contextual and does not establish that the school operates the ATM or that the pin refers to a particular administrative office |
+| SD Islam El-Fash | Islamic elementary-school name; pin reportedly appears farther into the driveway/entrance area, with a covered parking area and white car | The supplied summary considers this likely the same school complex as Elfash Mutiara Cipta. Record as a possible same-site relationship only; do not merge the two labels or pin records without original-frame and map-position review |
+| CV. Manunggal Sakti | Construction-company candidate; reported rating 4.4 stars; sign reportedly reads “DEKSON - QUALITY IS THE KEY - MANUNGGAL SAKTI” | Preserve the sign text and reported category. The signage may indicate a Dekson-branded product or business association, but does not by itself establish the company's exact legal role, dealership, or contractor status |
+| Toko Bangunan Sinar Pasifik | Building-materials shop; reported rating 5.0 stars (3 reviews); stacks of wood/materials described outside; “Jl. Ceger Raya” road marking reportedly visible | Rating/review count are listing metadata. Materials are visual stock context; exact inventory and current operation not independently verified |
+| KIA HARDWARE | Hardware shop; sign reportedly says “Toko Filter Air & Alat Teknik”; a white van is parked in front; yellow building with “DISEWAKAN” sign described to the left | Preserve the business name and specialty wording as transcribed. The van and nearby rental sign are contextual; do not infer ownership, tenancy, or that the rental sign refers to KIA HARDWARE |
+
+### O1. Identity and site handling
+
+- **Elfash Mutiara Cipta** and **SD Islam El-Fash** may refer to labels within one school complex, but retain both raw names pending verification of the pin positions and entrance layout.
+- **CV. Manunggal Sakti** remains a separate candidate from the school. “Right next to” is a supplied adjacency description, not evidence of shared ownership or institutional control.
+- The reported HUT ke-81 banner in the Sinar Pasifik view is consistent with 2026 but does not independently confirm the exact capture date; see section N1.
+- The white car and white van are transient scene context. The “DISEWAKAN” sign does not establish which building/unit is offered for rent.
+- No coordinates, stable POI IDs, parcel boundaries, ownership, tenancy, or business succession assigned.
+
+### O2. Intake disposition
+
+- Keep this group within the Ceger Raya intake, but do not assume the listed frontages form one uninterrupted block without original panorama sequence and coordinates.
+- Preserve separate school pin/name strings and the reported possible same-complex relationship as unresolved.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone.
+- Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
