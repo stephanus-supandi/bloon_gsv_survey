@@ -451,3 +451,67 @@ A large banner spanning the road reportedly reads **“Dirgahayu Republik Indone
 - Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+
+## P. Supplemental Central Jakarta observations — Kebon Sirih / Wahid Hasyim / Sabang
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** May 2025  
+**Source:** User-supplied written summaries of three groups of Google Maps / Street View screenshots. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE; geographically grouped by the supplied descriptions, but exact pin placement, address matching, and relationships remain subject to direct map/frame review.
+
+The three supplied groups are described as covering the Kebon Sirih / Menteng pocket around Jl. K.H. Wahid Hasyim, Jl. Kebon Sirih, Jl. H. Agus Salim (Sabang), and nearby Srikaya alleys / Gondangdia junction. The stated approximate 500–700 m cluster and walking order are retained as user-supplied orientation, not measured geometry. This May 2025 group is separate from the September 2026 South Tangerang / Ceger Raya observations and from the earlier May 2025 Central Jakarta candidates in section K.
+
+### P1. First screenshot group — Warkost / Sabang alleys / MNC Center / “Himbauan”
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Warkost | Coffee/breakfast warung; reported address Jl. K.H. Wahid Hasyim No. 17A, Kebon Sirih, Menteng; description reportedly uses “nyarap | ngupi | nongkrong | kos kosan”; said to have operated since 2019 | Preserve the address and descriptive wording as supplied. The claimed start year and exact pin-to-frontage match are not independently verified. Street marking and green bike lane are orientation clues only |
+| Tahu Kipas Ninin | Tahu kipas snack vendor; supplied description associates a Kebon Sirih, Menteng contact location with the screenshot and mentions another outlet in Tebet; listing reportedly opens at 07:00 | Keep the Kebon Sirih and Tebet references distinct. Do not assume the pictured cart is the same legal outlet/operator as the Tebet branch without direct evidence. Opening time is listing metadata |
+| BAROKAH CELL | Mobile-phone counter; reported address Jl. Srikaya II No. 6, RT.6/RW.7, Kebon Sirih, Menteng; described in a narrow alley scene with bubur ayam and pecel sayur carts | Preserve the address as transcribed. Food carts and parked ride-hailing motorcycles are scene context, not proof of business relationships or exact frontage |
+| MNC Center / MNC Tourism | MNC Center complex reported at Jl. Kebon Sirih Kav. 17–19; blue-glass tower behind a black fence; supplied summary states PT MNC Tourism Indonesia Tbk is headquartered on the 17th floor of MNC Tower and that some MNC units use a Jl. Wahid Hasyim address | Treat the complex, tower, and corporate-unit references as separate address/name claims pending source and parcel review. Shared complex or alternate mailing address does not by itself establish the exact building visible or a particular unit's occupancy |
+| “Himbauan” | Google Maps pin reportedly labelled “Himbauan”; supplied explanation says the word means a public notice/advisory (standard spelling “imbauan”) and may be a signage board rather than a business | Retain as a raw map label, not a business candidate. The suggested mis-pinning explanation is plausible but unverified; reported 5.0 stars (2 reviews) is platform metadata and does not make it a business |
+| TransJakarta bus / bus-stop scene | Red bus reportedly displays “Aluminium Body”; bollards and tactile paving described near the Wahid Hasyim / Kebon Sirih corridor | Record as transport-scene context only. Bus operator/fleet identity, exact stop, and whether the pin was anchored to the bus rather than a nearby place require direct frame and map review |
+
+### P2. Second screenshot group — Srikaya / Gedung Sindo / Paragon frontage / WH 48
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Dimsum Rapnesia | Halal dimsum street-stall candidate; reported address Jl. Srikaya I No. 9, RT.12/RW.9; another listing reportedly writes Jl. Srikaya II No. 9 with the same RT/RW; reported hours 06:30–21:00 and price around Rp15,000 per portion | Preserve both Srikaya I / Srikaya II address variants as a conflict, not a resolved address. The claim that a pin is anchored to the same red TransJakarta bus as “Himbauan” is a hypothesis until pin coordinates and original frames are inspected |
+| Gedung Sindo | Blue-glass building; reported address Jl. K.H. Wahid Hasyim No. 38, Kebon Sirih; supplied summary associates it with SINDOnews and Koran SINDO offices and mentions RPA Perindo headquarters | Preserve each organization as a reported association only. Do not infer current occupancy, ownership, or a shared institutional relationship from the building name or facade. Relationship to MNC Center in section P1 remains unverified |
+| RedDoorz Plus near Monumen Nasional Jakarta | Hotel/accommodation listing reported at Jl. K.H. Wahid Hasyim No. 29 | Keep as a separate platform listing. The supplied claim that it operates rooms inside Hotel Paragon is not independently established by the address alone |
+| Hotel Paragon | Hotel name reportedly visible as faded “HOTEL PA…” lettering; reported address Jl. K.H. Wahid Hasyim No. 29, Jakarta 10340 | Same reported street number as RedDoorz listing; this supports a possible shared-building/address relationship, not proof of operator, room inventory, or current hotel status |
+| Warkop WH 48 | Coffee/snack stall; reported address Jl. Wahid Hasyim No. 48; listing description reportedly says “sebrang Hotel Paragon” | Preserve the address and quoted orientation as supplied. The name expansion “Wahid Hasyim No. 48” is a supplied interpretation, not verified business naming. Approximate distance to Warkost is not independently measured |
+
+### P3. Third screenshot group — Gondangdia junction / No. 48 frontage
+
+| Provisional candidate / raw visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| Kantin Rujak Cingur Pak Hadi | Surabaya-style canteen reported at Jl. K.H. Wahid Hasyim No. 48; banner reportedly lists “serba 25k”, bandeng presto, soto Madura/Sulung, pete, and jengkol; a 2012 blog post reportedly described daily opening from 08:00 | Preserve menu and historical-hours claims as supplied, not verified current details. The “48a” plate on a nearby building is an orientation clue; it does not prove the canteen and Warkop WH 48 share one premises or operator |
+| Warkop Segitiga | Coffee stall at the three-way junction where Jl. Kebon Sirih Timur Dalam meets Jl. K.H. Wahid Hasyim; listing reportedly categorizes it as a cafe, price Rp1,000–25,000, opening 10:00 | The “Segitiga” name explanation and junction placement are user-supplied interpretations. No formal street address was supplied; preserve as an approximate junction candidate |
+| Warteg Raji | Warteg on Wahid Hasyim; reported as open 24 hours; visitor review reportedly praises cleanliness and food variety | Hours and review description are listing/user-report metadata, not verified current operation. The supplied note says screenshots 2 and 3 show the same Street View instant (same red PCX rider and white van); treat that as a possible same-scene re-observation, not independent proof of exact storefront adjacency |
+| Toko Sinar Bali | Store selling Balinese goods; reported address Jl. K.H. Wahid Hasyim No. 48A-16, RT.14/RW.6, Kebon Sirih; listing reportedly opens 07:30 | Preserve the address and category as supplied. “Custom traditional” interpretation of the review wording is tentative; exact unit and inventory not independently verified |
+| Bubur Ayam “Jempol” H. Hadi | Name reportedly visible near Toko Sinar Bali and the Kantin Rujak Cingur Pak Hadi frontage | Record as a separate food-business/sign candidate. Similar “Hadi” wording does not establish common ownership or operator with Kantin Rujak Cingur Pak Hadi |
+| RM Padang Mini Jaya | Padang restaurant on Jl. K.H. Wahid Hasyim, Kebon Sirih; reported rating 4.4 stars (243 reviews); supplied summary mentions a nearby round white Foresthree Coffee sign and a “Nasi Padang Mini Jaya 2” listing on GrabFood; also recounts a 2017 “plastic rice” hoax controversy | Preserve the rating, nearby sign, related listing, and historical controversy as reported claims, not independently checked facts. A nearby Foresthree sign is not proof of shared premises. “Mini Jaya 2” is a separate listing until branch/operator relationship is verified |
+
+### P4. Cross-batch reconciliation and evidence limits
+
+- The three supplied groups are retained as one provisional **Kebon Sirih / Wahid Hasyim / Sabang** area cluster because the descriptions share the May 2025 imagery date and overlapping locality references. This does not establish a continuous Street View traverse or exact walking order.
+- **Dimsum Rapnesia** and **BAROKAH CELL** are retained as separate alley candidates. The Srikaya I / Srikaya II address variants for Dimsum Rapnesia remain unresolved.
+- **Himbauan** is retained as a raw Maps label only. Its proposed interpretation as a mis-pinned public-notice board, and the claim that the bus caused the pin anchor, remain unverified.
+- **RedDoorz Plus** and **Hotel Paragon** share a reported No. 29 address; do not merge the listings or assert an operator/tenant relationship without direct evidence.
+- **MNC Center / MNC Tourism** and **Gedung Sindo** are kept as distinct building/corporate-name candidates. Similar architecture, nearby addresses, or a reported complex relationship do not establish one parcel, entrance, or occupancy arrangement.
+- **Warkop WH 48**, **Kantin Rujak Cingur Pak Hadi**, **Toko Sinar Bali**, and **Bubur Ayam “Jempol” H. Hadi** have overlapping No. 48 / 48A descriptions, but their exact units and any business relationship remain unresolved.
+- The reported Gondangdia junction, Sabang food-street setting, bus shelter, tactile paving, green bike lane, parked motorcycles, ride-hailing riders, and passing vehicles are orientation or transient scene context only.
+- Ratings, review counts, prices, opening hours, historical operating claims, and business descriptions are metadata or statements from the supplied summary; they are not independently verified current facts.
+- Citation markers such as “[6]”, “[39]”, and “[17]” in the supplied text were not accompanied by retrievable source URLs or bibliographic details in this intake. They are therefore not treated as independently checked citations.
+- No coordinates, stable POI IDs, parcel boundaries, verified walking distances, ownership, tenancy, or business succession assigned.
+
+### P5. Intake disposition
+
+- Keep this May 2025 Central Jakarta group separate from the September 2026 South Tangerang / Ceger Raya sections and from the earlier Central Jakarta observations in section K.
+- Preserve address conflicts, raw map labels, partial signage, and possible pin/building overlaps rather than resolving them from narrative inference.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone.
+- Original screenshots, exact image references, coordinates, camera headings, and panorama sequence remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
