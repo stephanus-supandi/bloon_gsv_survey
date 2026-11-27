@@ -965,3 +965,50 @@ The supplied group describes a green truck carrying the wording “Pemerintah Ka
 
 **Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
 
+## X. Supplemental Ceger Raya observations — Jl. Kampus STAN junction / phone and convenience retail
+
+**Supplement received:** 2026-11-27  
+**Source:** User-supplied written summary of Google Street View screenshot batches. Original screenshot files were not independently inspected in this update.  
+**Reported imagery date:** Not specified in the supplied summary.  
+**Status:** PROVISIONAL INTAKE ONLY; pin placement, frontage sequence, road alignment, listing metadata, and institutional/locality relationships remain subject to direct frame and source review.
+
+This supplement adds a reported commercial cluster around the **Jl. Ceger Raya / Jl. Kampus STAN** junction. The supplied summary associates Jl. Kampus STAN with access toward **PKN STAN (Politeknik Keuangan Negara STAN)** and interprets the nearby shops as serving a student population. Retain that as the source summary's route/context interpretation; the screenshots as described do not independently establish the customer profile, exact campus access route, or the reason for the commercial density.
+
+### X1. New business and storefront candidates
+
+| Provisional candidate / raw visible text | Supplied observation and reported metadata | Evidence limits / reconciliation |
+|---|---|---|
+| ASIA PHONE CEGER | Mobile-phone retail candidate. A tall sign/totem reportedly displays Samsung, realme, vivo, and OPPO brand names/logos | Preserve the candidate name and listed brands as supplied. Brand signage does not establish authorized-dealer status, current stock, or a formal relationship with each manufacturer |
+| Pengurus Majelis Wakil Cabang Nahdlatul Ulama Kec. Pondok Aren | Green organizational sign reportedly visible to the right of the ASIA PHONE CEGER scene | Record the sign text as a locality/scene cue. It is not proof of the phone shop's affiliation, ownership, tenancy, or any relationship with the organization |
+| RIANA JAM | Watch/clock retail candidate; listing snapshot reportedly rated 5.0 stars / 1 review | Rating and review count are supplied platform metadata, not independently verified. Exact storefront and pin match remain unreviewed |
+| Miza Parfume Fragrance | Perfume retail candidate; listing snapshot reportedly rated 1.0 star / 2 reviews | Preserve the reported rating as a metadata snapshot only. A low rating is not a verified assessment of product quality, legitimacy, or business conduct |
+| Alfamidi Ceger Raya | Convenience-store candidate; zebra crossing reportedly visible nearby | Keep separate from Indomaret Ceger Jurang Mangu, Happy Mili Ceger, and Ahad Mart Toko. Zebra crossing is street context and does not by itself establish pedestrian volume or student use |
+| Shop Citra Jaya | General-store candidate reportedly visible near a green directional road sign | Keep as a separate candidate. Exact frontage, address, and pin placement are not established |
+| Green directional road sign — Jombang / Serpong; Ciledug / Kby. Lama | Sign reportedly points toward Jombang / Serpong and Ciledug / Kebayoran Lama | Preserve the destination wording as transcribed. It is a route-direction clue, not proof of the camera's exact location, municipal boundary, or a verified connection to every previously recorded Ceger Raya scene |
+| Ketoprak stall / “KETOPRAK” sign | Small food-stall candidate reportedly visible in the left side of images 4 and 5 | Sign/food-stall observation only; no business name, exact unit, operator, or current operating status supplied |
+| Additional food stalls | Small roadside food stalls reportedly appear in the same image group | Keep unresolved unless a readable name or distinct frontage is supplied. Do not create individual POIs from generic stall descriptions alone |
+
+### X2. Cross-batch reconciliation — repeated Bar Burger / Happy Mili / Ahad Mart / Glamour Jaya material
+
+The same supplied message repeats the earlier “Bar Burger” commercial-strip summary. This is treated as a **re-observation or repeated description**, not as a new batch of distinct POIs.
+
+- **BAR BURGER by Barapi Meat & Grill** was already recorded in section W5. The red sign is again described as a visual block landmark; no duplicate candidate is created.
+- **Happy Mili Ceger** was already recorded in W5 with the supplied snapshot of 4.9 stars / 256 reviews. Preserve it as the same provisional candidate; do not create a duplicate.
+- **Ahad Mart Toko** was already recorded in W5 with the supplied snapshot of 4.6 stars / 58 reviews. Preserve it as the same provisional candidate; do not create a duplicate.
+- **GLAMOUR JAYA 7** was already recorded in W5. Retain the unresolved difference between the Google category “clothing store” and the reported physical signs “Toko 24 Jam” / “Jual Berbagai Macam Sembako.”
+- The red pump reading “PGN MINI” remains uncertain, as recorded in W5. Do not infer fuel type, licensing, or formal station status. Blue water gallons remain scene/inventory context only.
+- **Warung Nasi Pemalang Al Karomah** and the partial green banner text “…PUNG KONVEKSI” / “Kec. Pondok Aren, Kota Tangerang Selatan” were already recorded in W5. The banner is a locality clue as supplied, but does not independently prove that Jl. Ceger Raya is a municipal boundary road.
+- The earlier summary's claim that Jl. Ceger Raya is a border road between Tangerang and South Tangerang is not adopted as verified geography. A sign naming Kecamatan Pondok Aren and Kota Tangerang Selatan does not, by itself, establish a municipal boundary or identify which side of a road a particular frontage occupies.
+
+### X3. Evidence limits and intake disposition
+
+- Keep the new **ASIA PHONE CEGER**, **RIANA JAM**, **Miza Parfume Fragrance**, **Alfamidi Ceger Raya**, **Shop Citra Jaya**, and unresolved **KETOPRAK** stall as separate provisional candidates.
+- Keep the reported Jl. Kampus STAN junction as a route/context observation. The asserted relationship to PKN STAN and student demand is not treated as independently established from the supplied text.
+- Keep the green NU organizational sign and green directional sign as contextual evidence, not as proof of business affiliation or precise geolocation.
+- Preserve the supplied spelling, ratings, review counts, brand signage, and road-destination strings. Listing ratings are metadata snapshots and not verified current facts.
+- The reported yellow Mitsubishi Fuso truck is transient traffic context only; it does not establish a logistics route or commercial relationship with nearby businesses.
+- Do not infer customer demographics, student patronage, ownership, tenancy, legal relationships, dealer authorization, business succession, parcel boundaries, or current operating status.
+- No coordinates, stable POI IDs, or measured distances assigned. No legacy master CSV or `survey_log.csv` update is made from this text summary alone. Original screenshots, exact image references, Street View date badges, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
