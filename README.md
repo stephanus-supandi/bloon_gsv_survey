@@ -4,6 +4,8 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Sharjah, UAE — Al Jabarti Street and City Center: provisional Street View intake (2026-11-28)](field-notes/international/2026-11-28_sharjah-al-jabarti-street-view-intake.md) — preserves reported business-pin and storefront leads, July 2024 / January 2026 capture labels, possible same-scene City Center observations, and contact-number strings. Source is AI-written summaries of user screenshots; original frames were not independently inspected. No coordinates, master CSV changes, verified adjacency, ownership, or personal-identity claims.
+
 - [Bandung, Semarang Pedurenan and Jakarta Kuningan/Satrio — multi-location Street View intake (2026-11-27)](field-notes/indonesia/2026-11-27_bandung-semarang-kuningan-satrio-intake.md) — records the reported Jack Rabbit Coffee Bar candidate, Semarang Pedurenan business/name candidates and 2019/2025 comparison, and Mall Ambassador/Kuningan/Satrio business/tower candidates. Source is AI-written summaries of user screenshots; original frames were not independently inspected. No coordinates, master CSV changes, ownership links, or causal claims.
 
 - [Jacksonville and Buffalo — “Jack Rabbit” name-token intake (2026-11-27)](field-notes/international/2026-11-27_jacksonville-buffalo-jack-rabbit-intake.md) — records reported venue/business candidates in Jacksonville and Buffalo and consolidates the recurring “Jack Rabbit” string with the Bandung candidate as name recurrence only. No shared brand, owner, coordinates, or corporate relationship is inferred.
