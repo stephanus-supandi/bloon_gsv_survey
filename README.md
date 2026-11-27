@@ -3,6 +3,8 @@
 Forensic Street View survey of urban POIs, spatial continuity, metadata drift, and micro-economic patterns across Jakarta–Bekasi.
 
 ## Recent audit notes
+- [Sharjah and Maple Ridge — mixed Street View / personal-photo follow-up (2026-11-28)](field-notes/international/2026-11-28_sharjah-maple-ridge-mixed-photo-followup.md) — separates current Sharjah and Maple Ridge Street View leads, older July 2018 Sharjah observations, and personal night photos; records Al Majd Optical / Al Tomah block-level continuity and The Act Hotel re-observation without asserting exact addresses, ownership, or residential identity. Based on user descriptions; original images not independently inspected. No coordinates or master CSV changes.
+
 
 - [Sharjah, UAE — Al Jabarti Street and City Center: provisional Street View intake (2026-11-28)](field-notes/international/2026-11-28_sharjah-al-jabarti-street-view-intake.md) — preserves reported business-pin and storefront leads, July 2024 / January 2026 capture labels, possible same-scene City Center observations, and contact-number strings. Source is AI-written summaries of user screenshots; original frames were not independently inspected. No coordinates, master CSV changes, verified adjacency, ownership, or personal-identity claims.
 
