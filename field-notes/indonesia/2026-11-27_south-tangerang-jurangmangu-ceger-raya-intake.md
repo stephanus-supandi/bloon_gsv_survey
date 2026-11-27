@@ -1012,3 +1012,75 @@ The same supplied message repeats the earlier “Bar Burger” commercial-strip 
 
 **Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
 
+## Y. Supplemental Ceger Raya observations — Jl. Kampus STAN / Jl. H. Saidi / Taman Mangu commercial strip
+
+**Supplement received:** 2026-11-27  
+**Source:** User-supplied written summaries of Google Street View screenshot batches. Original screenshot files were not independently inspected in this update.  
+**Reported imagery date:** Not specified in the supplied summaries.  
+**Status:** PROVISIONAL INTAKE ONLY; exact pin placement, frontage sequence, street geometry, listing metadata, and institutional/customer relationships remain subject to direct source review.
+
+This section records the supplied descriptions of the commercial stretch around Jl. Ceger Raya, Jl. Kampus STAN, and Jl. H. Saidi, plus a further reported stretch of Ceger Raya. The summaries refer to PKN STAN as a nearby institution and interpret nearby businesses as serving students. This is retained as contextual interpretation only: the supplied descriptions do not independently establish the exact campus access route, customer demographics, or that the businesses primarily serve students.
+
+### Y1. Repeated observations from the Jl. Kampus STAN junction batch
+
+The following material repeats the earlier description recorded in section X. It is treated as a repeated summary/re-observation, not as a new set of distinct POIs:
+
+- **ASIA PHONE CEGER:** mobile-phone retail candidate; tall sign reportedly displays Samsung, realme, vivo, and OPPO brands.
+- **RIANA JAM:** watch/clock retail candidate; listing snapshot reported as 5.0 stars / 1 review.
+- **Miza Parfume Fragrance:** perfume retail candidate; listing snapshot reported as 1.0 star / 2 reviews.
+- **Alfamidi Ceger Raya:** convenience-store candidate; zebra crossing reportedly visible nearby.
+- **Shop Citra Jaya:** general-store candidate near a green directional sign reportedly pointing toward Jombang / Serpong and Ciledug / Kebayoran Lama.
+- **Green sign:** “PENGURUS MAJELIS WAKIL CABANG NAHDLATUL ULAMA KEC. PONDOK AREN” — organizational/locality signage, not evidence of business affiliation.
+- **Ketoprak stall:** food-stall sign reportedly visible; no distinct business name supplied.
+- **Yellow Mitsubishi Fuso truck:** transient traffic context only.
+
+No duplicate candidates are created for these repeated descriptions. Refer to section X for the original intake and its evidence limitations.
+
+### Y2. Jl. Kampus STAN / Jl. H. Saidi — new supplied business candidates
+
+| Provisional candidate / raw visible text | Supplied observation and reported metadata | Evidence limits / reconciliation |
+|---|---|---|
+| Syafiah Computer | Computer-shop candidate reportedly located at the corner of Jl. Kampus STAN; listing snapshot reported as 5.0 stars | The supplied summary suggests printing, laptop repair, and accessories as possible student needs, but those services are not confirmed by the described visual evidence. Preserve only the shop candidate and reported rating; no review count or address supplied |
+| Ekspedisi STAN Lion Parcel | Shipping/parcel-service candidate; listing snapshot reported as 2.5 stars / 13 reviews | Preserve the reported name and listing snapshot. The suggestion that it serves students is not independently established. The exact frontage and pin-to-sign match remain unreviewed |
+| “HUNIAN PREMIUM @BINTARO” / Castelia | Large billboard reportedly visible above/near the Lion Parcel scene | Contextual sign only. It may be a useful visual landmark in the supplied image sequence, but it does not establish the exact route direction, project location, or relationship to the parcel business |
+| Warung Sembako Barokah Jaya | Grocery/basic-commodities shop candidate reportedly beside Syafiah Computer | Keep as a separate candidate. The Ketoprak sign reportedly visible in the background remains a separate unresolved food-stall candidate; no shared operator inferred |
+| Bakso Malang Arema STAN Pak Jamal | Bakso/food-stall candidate; “STAN” appears in the supplied business name; Jl. H. Saidi label reportedly visible in the scene | Preserve the full supplied name. “Arema” may be a reference to the Malang football identity, but that does not establish affiliation, ownership, or operator identity. The claim that it is a popular student hangout is not supported by the supplied visual summary |
+| Ayam Bakar “Al-Fallah” | Grilled-chicken restaurant candidate; listing snapshot reported as 3.0 stars; Jl. H. Saidi label reportedly visible nearby | Preserve the supplied spelling and rating. The adjacent “TOKO SRC” sign is recorded separately below; do not infer that it sells tires or batteries from the summary's uncertain parenthetical interpretation |
+| “TOKO SRC” | Shop sign reportedly visible next to/near the Ayam Bakar Al-Fallah scene | Sign candidate only. Exact business name, category, unit, and operator are unresolved |
+
+### Y3. Further Ceger Raya stretch — food, aquarium, barber, and rice wholesale candidates
+
+| Provisional candidate / raw visible text | Supplied observation and reported metadata | Evidence limits / reconciliation |
+|---|---|---|
+| Soto Ayam Jodo Roso | Soto/chicken-soup food business candidate; listing snapshot reported as 4.9 stars / 15 reviews and Rp1–25,000 | Rating, review count, and price range are supplied listing metadata, not independently verified current facts. The “Hunian Premium @Bintaro” billboard reportedly appears again in the scene, but this is a visual-context clue only |
+| “HUNIAN PREMIUM @BINTARO” / Castelia | Billboard reportedly visible in both the Lion Parcel and Soto Ayam Jodo Roso image groups | Repeated billboard observation; it may help compare the supplied scenes, but without original panoramas, headings, or coordinates it does not prove the two businesses are adjacent or that the road leads directly to the development |
+| Biru Aquarium | Aquarium/fish-shop candidate; listing snapshot reported as 4.7 stars / 144 reviews | Storefront sign reportedly reads “JALAN CEGER RAYA NO. 14 TAMAN MANGU PONDOK AREN TANGSEL.” Preserve this as an exact supplied sign/address transcription, not a verified postal address or parcel location. Rating and review count remain listing metadata snapshots |
+| Pangkas Rambut Raharja | Barbershop candidate; listing snapshot reported as 4.9 stars / 10 reviews | The supplied summary says Google Maps categorizes it as “Corporate office.” Preserve the category conflict: business name suggests barber service, while the reported platform category differs. Do not silently overwrite the Maps category or treat the name alone as definitive proof of current activity |
+| “ARCADIA 2,3M” billboard | Large billboard reportedly visible above/near Pangkas Rambut Raharja | Contextual property/advertising sign only. Whether Arcadia refers to a housing cluster, property development, price, or another offer is unresolved |
+| Warteg Barokah | Warteg/food-stall candidate reportedly adjacent to a shop with “Sambal Petir” wording | Keep as a separate candidate. No rating, review count, address, or hours supplied. “Sambal Petir” is retained as a neighboring sign/business clue; no shared operator inferred |
+| “Sambal Petir” shop/sign | Shop selling or advertising “Sambal Petir” reportedly next to Warteg Barokah | Sign candidate only; exact business name, unit, operator, and relationship to the warteg remain unresolved |
+| Agen Beras Grosir Adi Global Jaya | Rice-wholesale/agent candidate | Grab drivers reportedly visible waiting or parking nearby, and a large truck appears in the background. These are transient scene observations only; they do not prove a delivery pickup point, supplier relationship, or business logistics arrangement |
+
+### Y4. Cross-batch reconciliation and evidence limits
+
+- Treat **ASIA PHONE CEGER, RIANA JAM, Miza Parfume Fragrance, Alfamidi Ceger Raya, Shop Citra Jaya**, the NU sign, the directional sign, and the Ketoprak stall as re-observations of section X, not new POIs.
+- Add **Syafiah Computer, Ekspedisi STAN Lion Parcel, Warung Sembako Barokah Jaya, Bakso Malang Arema STAN Pak Jamal, Ayam Bakar “Al-Fallah”, Soto Ayam Jodo Roso, Biru Aquarium, Pangkas Rambut Raharja, Warteg Barokah, Agen Beras Grosir Adi Global Jaya**, and unresolved **TOKO SRC / Sambal Petir** sign candidates as provisional intake records.
+- Preserve the exact supplied address-like wording for Biru Aquarium (“JALAN CEGER RAYA NO. 14 TAMAN MANGU PONDOK AREN TANGSEL”) as a sign transcription. It is not independently validated as a formal address or a unique parcel.
+- Keep the Jl. H. Saidi label as a locality/road cue; no exact junction geometry or frontage order is assigned from the written summary.
+- Keep **Syafiah Computer** and **Warung Sembako Barokah Jaya** separate even though they are described as adjacent. Adjacency does not prove common ownership or tenancy.
+- Keep **Ekspedisi STAN Lion Parcel** separate from the Castelia billboard. The billboard is a scene landmark, not evidence of a business relationship.
+- Keep **Pangkas Rambut Raharja** as a category-conflict candidate: reported Maps category “Corporate office” versus barber-related name. Do not resolve the conflict without the original listing and storefront evidence.
+- PKN STAN proximity, student demand, student patronage, and the idea that the area is a “student hub” remain interpretations supplied in the summaries, not verified demographic or customer evidence.
+- The claim that Ceger Raya connects Ciledug/Kebayoran Lama to Bintaro/Serpong is retained only as a directional interpretation from supplied road-sign wording. No continuous route or municipal-boundary claim is verified.
+- Ratings, review counts, price ranges, categories, signage, and business descriptions are user-supplied listing/banner snapshots, not verified current facts. The original screenshots, Street View date badges, exact image references, camera headings, panorama sequence, and cited sources were not independently inspected.
+- No coordinates, stable POI IDs, parcel boundaries, measured distances, ownership, tenancy, operator relationships, franchise/dealer authorization, or current operating status assigned. No master CSV or `survey_log.csv` update is made from these written summaries alone.
+
+### Y5. Intake disposition
+
+- Retain this as a further Ceger Raya / Jl. Kampus STAN / Jl. H. Saidi supplement, with the previously documented Jl. Wijaya Kusuma and Ceger Raya groups kept as separate provisional subclusters until original panorama sequence or coordinates establish continuity.
+- Preserve raw names, sign transcriptions, reported listing snapshots, category conflicts, and uncertainty.
+- Do not create duplicate records for the repeated section X candidates.
+- Do not update the legacy master CSV or `survey_log.csv` from these text summaries alone.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
