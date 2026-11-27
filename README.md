@@ -4,6 +4,10 @@ Forensic Street View survey of urban POIs, spatial continuity, metadata drift, a
 
 ## Recent audit notes
 
+- [Bandung, Semarang Pedurenan and Jakarta Kuningan/Satrio — multi-location Street View intake (2026-11-27)](field-notes/indonesia/2026-11-27_bandung-semarang-kuningan-satrio-intake.md) — records the reported Jack Rabbit Coffee Bar candidate, Semarang Pedurenan business/name candidates and 2019/2025 comparison, and Mall Ambassador/Kuningan/Satrio business/tower candidates. Source is AI-written summaries of user screenshots; original frames were not independently inspected. No coordinates, master CSV changes, ownership links, or causal claims.
+
+- [Jacksonville and Buffalo — “Jack Rabbit” name-token intake (2026-11-27)](field-notes/international/2026-11-27_jacksonville-buffalo-jack-rabbit-intake.md) — records reported venue/business candidates in Jacksonville and Buffalo and consolidates the recurring “Jack Rabbit” string with the Bandung candidate as name recurrence only. No shared brand, owner, coordinates, or corporate relationship is inferred.
+
 - [Bogor Regency — Cibungbulang / Cinanggung replay and “Luhut Binsar Panjaitan Area” outlier intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-cibungbulang-cinanggung-replay-and-luhut-area-outlier-intake.md) — excludes five repeated entries already in the prior Bogor tanker intake, adds four provisional Bogor names, and isolates the October 2026 rural scene as an unresolved location-label outlier; no coordinates or master CSV changes.
 
 - [Bogor Regency — Leuwiliang / Cinanggung / Cibungbulang: tanker and commercial-strip follow-up intake (2026-11-25)](field-notes/indonesia/2026-11-25_bogor-leuwiliang-cinanggung-cibungbulang-final-tanker-and-commercial-strip-intake.md) — records 15 principal pin/location entries across three supplied groups, with 11 new provisional name/sign candidates and four re-observations. Preserves the Pertamina tanker occlusion, Qiana/Apotek and restaurant/electrical-company pin-to-frontage discrepancies, and separate road labels; no coordinates or master CSV changes.
