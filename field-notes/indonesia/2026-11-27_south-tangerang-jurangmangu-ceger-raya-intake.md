@@ -758,3 +758,72 @@ The supplied summary identifies the terminus at Menara Cakrawala, Jl. M.H. Thamr
 - Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
+
+## U. Supplemental Jakarta and South Tangerang observations — Ceger Raya, Thamrin, and re-observations
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026 for the Ceger Raya observations; Thamrin imagery date not explicitly stated in this supplement.  
+**Source:** User-supplied written summaries of Google Maps / Street View screenshot groups. Original screenshot files were not independently inspected.  
+**Status:** PROVISIONAL INTAKE / RE-OBSERVATIONS; exact pin placement, addresses, frontage matching, dates, tenant relationships, and source claims remain subject to direct frame and source review.
+
+This submission combines three geographically distinct groups: (1) a new Ceger Raya/Jurangmangu Timur and Jurangmangu Barat supplement in Pondok Aren, South Tangerang, Banten; (2) new Thamrin boulevard candidates; and (3) re-observations of existing Ceger Raya candidates. Keep these as separate geographic subgroups/layers. The reported bicycle ETAs and approximate distance from the earlier Jakarta cluster are interface context only, not evidence of a journey, measured distance, or route.
+
+### U1. Ceger Raya — Waroenk Kopibin / El-Fash / Sinar Pasifik group
+
+The supplied summary places this group on Jl. Ceger Raya, Jurangmangu, Pondok Aren, South Tangerang, Banten, with imagery reported as September 2026. Angkot D22 is mentioned as serving the corridor; this route claim was not independently checked.
+
+| Provisional candidate / raw visible text | Supplied observation and reported address | Evidence limits / reconciliation |
+|---|---|---|
+| Waroenk Kopibin | Two-floor café/eatery reported at Jl. Ceger Raya No. 46, also listed as No. 48, RT.01/RW.02, Jurangmangu Timur, Pondok Aren. Frame reportedly shows kopi/seafood menu board and a red “Seblak Prasmanan Mpo Lala – Geger Pondok Aren, harga mulai 1.000–2.000-an” banner. Later listing snapshot reportedly 4.1 stars / 81 reviews, Rp25,000–50,000, open until 23:59. Supplied summary says it hosted an HUT RI ke-80 event night in August 2025 and functions as a motorcycle-community/event venue | Preserve No. 46 versus No. 48 address variation. Keep Waroenk Kopibin and Seblak Prasmanan Mpo Lala as separate business/tenant candidates pending unit-level evidence; same roof or banner adjacency does not establish one operator. Event history, community role, listing metadata, and hours are supplied claims/snapshots, not independently verified |
+| Seblak Prasmanan Mpo Lala | Red banner reportedly advertises “Geger Pondok Aren” and prices starting around Rp1,000–2,000 per piece; described under the Kopibin roof and open until midnight | Record as a separate food-stall candidate associated by the supplied summary with the Kopibin frontage. Exact unit, operator, pricing, and operating hours remain unverified |
+| Ayam Paha Dada Jurang Mangu Timur | Fried-chicken eatery next door to Kopibin, reported on Jl. Ceger Raya, Jurangmangu Timur, Pondok Aren. Re-shoot listing reportedly shows 4.4 stars / 22 reviews and hours until 22:00 | Treat as a separate food-business candidate within the described compound/row. Repeated shot is a re-observation, not a new POI. The claim that the two pins represent one “food compound” is a scene interpretation; do not infer shared ownership or operation |
+| SD Islam El-Fash / Yayasan El-Fash | Private Islamic elementary-school candidate reported at Jl. Ceger Raya, RT.001/RW.011, Pondok Aren, Tangerang Selatan, Banten. Yellow board reportedly reads “BANGUNAN & TANAH INI DIJUAL/DISEWAKAN, ±2.200 m², sertifikat hak milik” | Preserve the full sign transcription as supplied. The claim that a Facebook listing markets this exact school compound, and any possible relocation, are not independently verified. A sale/lease sign does not prove a completed transaction, ownership, or that the school has closed or moved |
+| Bank BRI ATM — Yayasan Pendidikan El Fash | ATM kiosk candidate described inside the El-Fash foundation/school compound; BRI ATM totem reportedly visible beside a blue-tarp school cart | Record as a facility candidate associated with the compound by the supplied interpretation. Exact machine position, operator, current status, and whether it is a separate pin remain unverified |
+| Toko Bangunan Sinar Pasifik | Building-materials shop candidate on the same Ceger Raya row; BRI sign and school cart reportedly visible to its right/western side in the described frame | Re-observation of the earlier Toko Bangunan Sinar Pasifik candidate in section O, not a new POI. Keep distinct from “Toko Bangunan Pasifik” in Pondok Pucung and PT Sinar Pasifik Nusantara at APL Tower, as the supplied summary cautions. Exact frontage and address remain unresolved |
+
+### U2. Thamrin boulevard — new candidates and cross-cluster links
+
+The supplied summary describes three new Jl. M.H. Thamrin candidates. They extend the earlier Menteng/Wahid Hasyim intake toward the main boulevard, but do not by themselves establish a continuous mapped route.
+
+| Provisional candidate / raw visible text | Supplied observation and reported address | Evidence limits / reconciliation |
+|---|---|---|
+| Starbucks Djakarta Theater | Starbucks outlet reported at Jl. M.H. Thamrin No. 9, RT.2/RW.1, Kebon Sirih, Menteng. Listing reportedly 24 hours. Described inside the same Menara Cakrawala / Djakarta Theater complex as the previously recorded Subway and Djakarta XXI candidates | Add as a new tenant candidate within the existing Menara Cakrawala complex candidate in section T. Preserve the reported 24-hour listing as a metadata snapshot, not verified current hours. The “Cakrawala trio” is a user-supplied grouping, not a verified complete tenant roster |
+| Institut Français Indonesia — IFI Thamrin / IFI Jakarta | Cultural-center candidate reported at Jl. M.H. Thamrin No. 20, Jakarta Pusat 10350; described with language courses, film screenings, auditorium, and cultural programming. Supplied summary says IFI Thamrin and IFI Wijaya were reorganized into a single “IFI Jakarta” operation | Preserve IFI Thamrin and IFI Jakarta as reported branding/name variants pending source review. The merger/reorganization, entrance identification, program details, and current operation are supplied claims, not independently checked |
+| Sinar Mas Land Plaza Thamrin | Office-complex candidate reported at Jl. M.H. Thamrin No. 51, RT.9/RW.4, Gondangdia, Menteng 10350. Supplied summary describes a red curved drop-off canopy, “PM 05” parking booth, reported 06:00–21:00 WIB parking operation, 4.5 stars / 3,562 reviews, and 95,648 m² development. Bank Sinarmas Tower I and DSSA Tower II offices are named as reported tenants | Keep the plaza/building complex distinct from its reported tenant candidates, including Bank Sinarmas and DSSA. Area, tenants, rating, review count, parking hours, and developer-page claims are supplied assertions/metadata and were not independently checked. Do not treat a parking booth as a separate business without a distinct listing or evidence |
+
+### U3. Ceger Raya — additional candidates and re-observations
+
+The supplied summary places this group on the same September 2026 Ceger Raya pass. It includes a new set of candidates and fuller listing snapshots for Waroenk Kopibin and Ayam Paha Dada.
+
+| Provisional candidate / raw visible text | Supplied observation and reported address | Evidence limits / reconciliation |
+|---|---|---|
+| CROWN ELECTRONIC / Ofero E-motor & E-bike / Ofero OXXO Bintaro Ceger | Existing pin reportedly labelled “CROWN ELECTRONIC” (5.0 stars / 1 review), while current-looking green frontage displays “ofero E-motor & E-bike – SALES SPAREPART SERVICE OXXO”. Reported address Jl. Ceger Raya No. 39, Jurangmangu, Pondok Aren, Tangerang Selatan; listing reportedly 10:00–22:00. A legacy electronics-promotion banner is also described | Preserve the legacy pin name and newer visible Ofero signage as separate time/name evidence. This may represent a changed storefront or pin/sign mismatch, but does not establish business succession, ownership, authorization, or exact operator. Supplied TikTok and address references were not independently checked |
+| Dava Leather | Leather-jacket shop candidate reported at Jl. Ceger Raya No. 84, Jurangmangu Timur, Pondok Aren, near the Jl. Wijaya Kusuma Raya junction. Supplied summary mentions a separate outlet at Jl. Raya Cinangka No. 78, opposite the Renyjaya three-way junction | Keep the Ceger Raya and Cinangka outlets as separate location candidates; do not merge them as one POI merely because the brand/name is shared. Address and branch claims are supplied assertions |
+| Indomaret Ceger Jurang Mangu | Minimarket candidate; facade board reportedly reads “CEGER JURANG MANGU 24”. Summary says a Point Coffee counter opened 27 October 2025 with a launch discount | Keep Indomaret and Point Coffee as separate store/tenant or in-store-service candidates pending unit-level evidence. The 24-hour label, opening date, and promotion are supplied claims; they do not establish current hours or offer |
+| Alam Tailor Busana Modiste | Tailoring/dressmaking business candidate with “ALAM TAILOR & MODISTE” board, reported at Jl. Raya Ceger No. 99, RT.01/RW.11, Jurangmangu Barat; listing reportedly 4.0 stars / 9 reviews and open until 23:00 | Preserve “Jl. Raya Ceger” wording and reported No. 99. Exact address and current operation are not independently checked. Do not assume the business occupies a specific school-compound parcel |
+| Toko Beras “Habibi Jaya” | Rice/egg/cooking-oil grocery candidate at the same reported No. 99, RT.01/RW.11 frontage; banner reportedly shows WhatsApp number 0812 9273 6433 and price labels 11.500/12.000; listing reportedly 5.0 stars / 3 reviews | Keep as a separate candidate from Alam Tailor despite the shared reported address/frontage. Phone and prices are transcribed from the supplied summary, not independently contacted or verified |
+| SD Islam El-Fash — possible nearby relation to No. 99 row | Earlier school candidate is reported at RT.001/RW.011; the No. 99 tailor/rice-shop row is also reported at RT.01/RW.11 and described as in the school's immediate orbit | Preserve the similar RT/RW strings and the supplied “immediate orbit” description without merging the addresses or assigning parcel adjacency. The relationship requires coordinates and original-frame review |
+
+### U4. Cross-section reconciliation and evidence limits
+
+- Keep the **Ceger Raya/Jurangmangu group** separate from the **Central Jakarta Thamrin group**. The Thamrin candidates extend the earlier Wahid Hasyim / Menara Cakrawala notes; they do not belong to the South Tangerang Ceger Raya cluster.
+- **Waroenk Kopibin** and **Ayam Paha Dada Jurang Mangu Timur** are re-observed in U1/U3. Do not create duplicate POIs from the fuller cards. Keep **Seblak Prasmanan Mpo Lala** as a separate food-stall candidate unless a distinct unit/operator is established.
+- **Toko Bangunan Sinar Pasifik** is a re-observation of section O. Do not create a duplicate candidate. Keep it distinct from other similarly named Sinar Pasifik entities in other locations.
+- **SD Islam El-Fash** and **Bank BRI ATM — Yayasan Pendidikan El Fash** are described as within one compound, but the school, foundation, and ATM are different entity/facility types. The sale/lease board does not prove a completed sale, relocation, closure, or change of operator.
+- **CROWN ELECTRONIC** and **Ofero** are preserved as legacy pin/current-signage strings; do not claim a verified business takeover or authorized showroom status.
+- **Dava Leather** at Ceger Raya No. 84 and the reported Cinangka No. 78 outlet remain separate location candidates.
+- **Indomaret Ceger Jurang Mangu** and **Point Coffee** are distinct candidate entities/services. Shared premises do not establish a single operator.
+- **Alam Tailor** and **Habibi Jaya** are separate candidates despite the shared reported No. 99. The similar RT/RW formatting for No. 99 and the El-Fash compound is not sufficient to infer one parcel or adjacency.
+- **Starbucks Djakarta Theater** is a new reported tenant candidate within the Menara Cakrawala complex recorded in section T. **IFI Thamrin** and **Sinar Mas Land Plaza Thamrin** are new candidates on the Thamrin corridor; do not infer a direct connection to the Menara Cakrawala property.
+- The supplied totals (~65/~70 pins) are user interpretations across multiple clusters, not independently counted or audited. Do not describe the collection as complete or fully mapped.
+- Ratings, review counts, hours, prices, event histories, community affiliations, public-transport route claims, office tenants, development area, school-property marketing, bank/ATM placement, store authorization, and source references remain supplied claims or listing snapshots. Citation placeholders such as “[1]”, “[14]”, “[17]”, “[24]”, “[39]”, and “[49]” were not accompanied by URLs or full bibliographic details and are not treated as independently verified citations.
+- No coordinates, stable POI IDs, parcel boundaries, verified walking/bicycle distances, ownership, tenancy, legal relationships, business succession, or current operating status assigned. Transient vehicles, delivery branding, people, and street activity remain scene context only.
+
+### U5. Intake disposition
+
+- Retain Ceger Raya and Thamrin as separate geographic subgroups, with explicit cross-references to earlier sections O and T where candidates are re-observations or building/tenant continuations.
+- Preserve raw labels, address variations, name conflicts, reported dates, and uncertainty.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
