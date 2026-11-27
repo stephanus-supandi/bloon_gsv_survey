@@ -872,3 +872,96 @@ The supplied summary describes a cluster along **Jl. Wijaya Kusuma**, with a sig
 - Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
+
+## W. Supplemental Ceger Raya and Bogor observations — Wartegs / Raja Gadai frontage / motor shops / Bar Burger / Bogor re-observations
+
+**Supplement received:** 2026-11-27  
+**Source:** User-supplied written summaries of several Google Street View screenshot batches. Original screenshot files were not independently inspected in this update.  
+**Reported imagery dates:** Ceger Raya batches are described as part of the existing Jurangmangu/Ceger exploration; the Bogor group is reported as April 2026, with the “Luhut Binsar Panjaitan Area” view reported as October 2026.  
+**Status:** PROVISIONAL INTAKE AND RE-OBSERVATION ONLY.
+
+This supplement contains two geographically separate groups: (1) further reported Jl. Ceger Raya observations in the Pondok Aren / South Tangerang cluster, and (2) Bogor Regency observations that overlap candidates already recorded in sections H and I. Do not interpret the order of the supplied summaries as one continuous route.
+
+### W1. Ceger Raya — Indomaret / Warteg / tailor / pawn-sign frontage
+
+| Provisional candidate / raw visible text | Supplied observation and reported metadata | Evidence limits / reconciliation |
+|---|---|---|
+| Jl. Ceger Raya | Road-surface lettering reportedly reads “Jl. Ceger Raya” in the first and last images. The summary describes a busy mixed commercial/residential street | Retain the road-name transcription. It does not independently geolocate every storefront in the batch or prove that all scenes are on one uninterrupted segment |
+| Indomaret Ceger Jurang Mangu | Minimarket reportedly visible in the first image; the summary says a Pecel Lele stall from an earlier batch appears to its right | Re-observation candidate for the Indomaret Ceger Jurang Mangu recorded in U3. The claimed relative placement of the food stall is not independently checked against the original panorama sequence; do not create a duplicate Indomaret POI |
+| Warteg Paradise Bahari 096 Ceger | Warteg candidate; listing snapshot reported as 4.3 stars / 45 reviews, Rp1–25,000, and open 24 hours. Produce/vegetable crates reportedly displayed outside | Name, category, rating, review count, price range, and hours are user-supplied listing/sign observations. “Open 24 hours” is not verified current operation. Produce crates are scene details only |
+| Kiki Tailor | Tailoring/sewing candidate in a modest shop with a corrugated roof; banner reportedly includes a partially transcribed phone string beginning “LIA 0818…” | Preserve the partial phone text only as supplied; do not reconstruct the missing digits or infer a home-based legal/business status from the appearance |
+| Sepatu Ani Shoes | Shoe-store candidate; listing snapshot reported as 4.5 stars / 2 reviews and open until 22:00. The Google pin is reportedly placed on a frontage dominated by a purple “BUTUH UANG? Gadaikan Elektronik!” / “Raja Gadai” billboard and “Pinjaman Lebih Tinggi” wording | Explicit pin-to-sign mismatch. Keep “Sepatu Ani Shoes” and “Raja Gadai” as separate candidate name/sign strings. The shoe store may be adjacent or the pin may be offset, but neither explanation is established. Do not merge the shoe-store candidate with the pawn-shop signage |
+| Raja Gadai | Large purple pawn/loan billboard reportedly visible above or at the frontage associated with the Sepatu Ani Shoes pin; wording includes “BUTUH UANG? Gadaikan Elektronik!” and “Pinjaman Lebih Tinggi” | Signage candidate only. Exact unit, active business name, operator, and relationship to Sepatu Ani Shoes are unresolved |
+| Warteg Bahari Ceger Pondok Safari | Warteg candidate; listing snapshot reported as 4.6 stars / 10 reviews and open until 20:00. Summary places it near a “Toko Baut” sign and “Medura Mart”; a red “Jago” ice-cream cart is reportedly in the foreground | Keep distinct from Warteg Paradise Bahari 096 Ceger. Similar “Bahari” wording does not establish one operator or branch relationship. Toko Baut, Medura Mart, and the cart are contextual neighboring observations; exact frontage and tenant relationships are not established |
+
+### W2. Bogor Regency — street cues and re-observations of existing candidates
+
+The supplied group describes a green truck carrying the wording “Pemerintah Kabupaten Bogor” and a “Bogor Sehati” logo, along with road-name cues transcribed as “Jl. Raya Cibungbulang” and “Jl. Raya Cinangneng.” These cues support retaining a Bogor Regency context for the described group, but the truck alone does not identify a specific district, village, or camera coordinate. The supplied summary's more specific Cibungbulang/Parung placement and its description of Cinangneng as part of Parung are not adopted as verified geography.
+
+| Existing candidate / raw visible text | New supplied observation | Reconciliation / evidence limits |
+|---|---|---|
+| SAN JAYA BANGUNAN | Building-materials shop candidate; reported rating 4.4 stars. A blue angkot reportedly passes in the scene | Re-observation of the candidate already recorded in section H. Do not create a duplicate POI. Rating is a listing snapshot; the angkot is transient scene context |
+| Xs Ud Xaalsabila | Raw map/name string reportedly appears along Jl. Raya Cibungbulang; mosque minaret visible in the distance | Re-observation of the unresolved raw label in section H. Preserve the spelling “Xs Ud Xaalsabila”; do not silently correct or infer the business name/category. The minaret is contextual only |
+| BENGKEL MANDIRI MOTOR | Motorcycle workshop candidate reportedly on/near Jl. Raya Cinangneng; nearby signs reportedly include “Audio Mobil” and “Body Repair” | Re-observation of the candidate already recorded in section H. Keep nearby service signage separate unless the original frame establishes it belongs to the same premises |
+| Toko Suharti | Small open-front shop; tires reportedly hanging in the rear and assorted goods visible | Re-observation of the candidate already recorded in section H. Do not create a duplicate POI or infer its full inventory from a partial view |
+| Green municipal truck — “Pemerintah Kabupaten Bogor” / “Bogor Sehati” | Municipal truck reportedly visible in the first Bogor image | Contextual administrative clue only. A vehicle's markings do not establish exact location, route, or district |
+| Jl. Raya Cibungbulang | Road-name text reportedly visible in the second image | Retain as a supplied road-name transcription; exact camera location and road segment remain unverified |
+| Jl. Raya Cinangneng | Road-name text reportedly visible in the third image | Retain separately from “Jl. Raya Cibungbulang.” Do not infer that the two roads are parallel, directly connected, or within a particular kecamatan from the written summary alone |
+
+### W3. Bogor rural label — “Luhut Binsar Panjaitan Area”
+
+| Provisional label / visible text | Supplied observation | Evidence limits / reconciliation |
+|---|---|---|
+| “Luhut Binsar Panjaitan Area” / “Farm” | A map label reportedly identifies an area/farm by this name. The October 2026 view reportedly shows a rural house, banana trees, corn/cassava-type cultivation, and other vegetation | Re-observation of the separate rural-location note in section I. Keep the raw label and reported October 2026 date. The supplied imagery description does not establish that the location is in Bogor, that it is an ancestral hometown, that it is named in someone's honor, or that the named public figure owns or uses the property. No personal, family, or property relationship is inferred |
+| Rural house, garden, and crops | House and cultivated vegetation reportedly visible in the image | Descriptive scene observations only. Do not infer land ownership, crop ownership, household identity, exact village, or agricultural business activity |
+
+### W4. Ceger Raya — Toko Baut / Raja Gadai vicinity and motor-service frontage
+
+| Provisional candidate / raw visible text | Supplied observation and reported metadata | Evidence limits / reconciliation |
+|---|---|---|
+| “K.Panjalu II” | Raw label reportedly appears in the first image alongside the same “Toko Baut” sign and red “Jago” ice-cream cart described near Warteg Bahari Ceger Pondok Safari in W1 | Preserve the raw string “K.Panjalu II.” The interpretation “Kos Panjalu II” is only a hypothesis and is not adopted as a verified business or building name |
+| Toko Baut | Hardware/bolt-shop sign reportedly reappears in the K.Panjalu II / Warteg Bahari scene | Contextual re-observation; exact mapped identity and unit remain unresolved |
+| Red “Jago” ice-cream cart | Red ice-cream cart reportedly reappears near the Toko Baut frontage | Transient vendor/cart context only; no operator or fixed trading location inferred |
+| All Star Motor | Motorcycle-repair candidate; listing snapshot reported as 5.0 stars / 11 reviews and open until 20:00. Large purple Raja Gadai billboard reportedly visible in the background | Keep All Star Motor as a separate candidate from Raja Gadai and Sepatu Ani Shoes. Background billboard is a visual anchor only; it does not establish shared premises, ownership, or operation |
+| Akbar Motor | Motorcycle shop/workshop candidate; “Toko Listrik 1500” sign reportedly appears next to it; silver MPV passes in the scene | Keep Akbar Motor and Toko Listrik 1500 as separate name/sign candidates unless direct frontage evidence shows otherwise. Vehicle is transient context |
+| Toko Listrik 1500 | Electrical-shop sign reportedly beside the Akbar Motor scene | Sign transcription only; exact unit and operator unresolved |
+| Cahella Salon | Salon candidate reportedly visible on the busy street; a pickup carrying wooden planks and sacks passes in the scene | Keep as a separate candidate. Pickup and cargo are transient context and do not establish a delivery, customer, or business relationship |
+| Cheger Motor Dealer Motor | Large multi-storey Honda-branded motorcycle-dealer candidate; supplied summary transcribes the name as “Cheger Motor” | Preserve the exact supplied spelling “Cheger.” Honda branding is visible-signage evidence only; do not claim authorized-dealer status without independent confirmation |
+| “S.A.B.E.R SQUAD” van | White van with “S.A.B.E.R SQUAD” wording and a cartoon-style graphic reportedly appears near the Cheger Motor scene | Vehicle and lettering are contextual observations. The proposed interpretations involving “Saber Pungli,” “Saber Tanah,” a community group, delivery service, or vehicle club are unresolved hypotheses; none is adopted |
+
+### W5. Ceger Raya — Bar Burger / minimarket / general-store / food frontage
+
+| Provisional candidate / raw visible text | Supplied observation and reported metadata | Evidence limits / reconciliation |
+|---|---|---|
+| BAR BURGER by Barapi Meat & Grill | Large red sign reportedly visible in several images and used by the supplied summary as a block landmark | Record the exact sign wording. Do not infer the exact mapped pin, franchise status, current operation, or that every nearby storefront belongs to the same commercial block without panorama review |
+| Happy Mili Ceger | Convenience-store candidate; listing snapshot reported as 4.9 stars / 256 reviews; described next to Glamour Jaya | Rating and review count are listing metadata as reported, not independently checked. Keep separate from Ahad Mart and Glamour Jaya |
+| Ahad Mart Toko | Convenience-store candidate; listing snapshot reported as 4.6 stars / 58 reviews; described farther along the same general stretch | Preserve as a separate candidate. “Down the road” is a supplied relative description, not a measured distance or verified sequence |
+| GLAMOUR JAYA 7 | Google label reportedly categorizes it as a clothing store, while physical signage reportedly reads “Toko 24 Jam” and “Jual Berbagai Macam Sembako” | Preserve the pin/category and storefront-sign wording as conflicting evidence. Do not silently reclassify the business or assume the listing is current |
+| Red fuel pump — “PGN MINI” (uncertain reading) | Red pump-like unit reportedly stands on the sidewalk in front of Glamour Jaya; lettering may read “PGN MINI” or similar | Retain the reading as uncertain. Do not identify the fuel type, operator, licensing, or status as a formal filling station from the supplied description |
+| Blue water gallons | Stacks of blue water gallons reportedly appear outside Glamour Jaya | Scene/inventory context only; no supplier or water-refill service inferred |
+| Warung Nasi Pemalang Al Karomah | Food-stall/restaurant candidate; background green banner reportedly contains partial “…PUNG KONVEKSI” wording and “Kec. Pondok Aren, Kota Tangerang Selatan” | Preserve the business name and partial banner text as supplied. The administrative wording is a locality clue in the described scene, but does not independently establish a municipal boundary or prove that all nearby Ceger Raya images are on a border road |
+
+### W6. Cross-batch reconciliation and evidence limits
+
+- Keep all Ceger Raya candidates in W1, W4, and W5 within the existing **South Tangerang / Pondok Aren / Jurangmangu** working cluster, while retaining uncertainty about exact frontage order and pin placement.
+- **Indomaret Ceger Jurang Mangu** is a re-observation of the candidate in U3, not a new POI. The reported Pecel Lele proximity is not independently established from the original panorama sequence.
+- Keep **Warteg Paradise Bahari 096 Ceger** separate from **Warteg Bahari Ceger Pondok Safari**. Similar “Bahari” wording is not proof of a branch, shared operator, or common owner.
+- Keep **Sepatu Ani Shoes**, **Raja Gadai**, and **All Star Motor** separate. A pin placed over a pawn-shop billboard or a billboard visible in the background is a pin/sign mismatch or scene-context issue, not proof of shared premises or business succession.
+- Keep **K.Panjalu II** as a raw label; “Kos Panjalu II” remains unverified. Repeated “Toko Baut” and “Jago” cart views are context/re-observations, not new businesses automatically.
+- Keep **Akbar Motor** and **Toko Listrik 1500** separate pending exact frontage evidence. Keep **Cheger Motor** spelling as supplied; Honda signage alone does not establish authorization. “S.A.B.E.R SQUAD” remains an unresolved vehicle marking.
+- Keep **Happy Mili Ceger**, **Ahad Mart Toko**, and **GLAMOUR JAYA 7** as separate candidates. Preserve the Glamour Jaya pin/category versus physical-signage conflict. “PGN MINI” is an uncertain transcription, not a verified fuel-station identity.
+- The Bogor material is a **re-observation** of the existing section H candidates **SAN JAYA BANGUNAN**, **Xs Ud Xaalsabila**, **BENGKEL MANDIRI MOTOR**, and **Toko Suharti**, plus the section I rural label. Do not create duplicate POIs or merge the Bogor observations with the Ceger Raya cluster.
+- The municipal truck supports only a broad Bogor Regency clue. The exact districts, villages, road relationships, and the supplied Parung/Cinangneng administrative interpretation remain unverified.
+- The “Luhut Binsar Panjaitan Area” label does not establish ownership, ancestral origin, naming intent, or a connection to the public figure.
+- Ratings, review counts, prices, hours, categories, business descriptions, signage readings, and all relative-neighbor claims are supplied listing/banner/summary snapshots, not independently verified current facts. The original screenshots and any cited external sources were not independently inspected.
+- No coordinates, stable POI IDs, parcel boundaries, verified distances, ownership, tenancy, legal relationships, business succession, or current operating status assigned. Transient vehicles, pedestrians, carts, and traffic remain scene context only.
+
+### W7. Intake disposition
+
+- Retain W1/W4/W5 as a Ceger Raya supplement and W2/W3 as separate Bogor re-observation material.
+- Cross-reference existing candidates in sections H, I, and U rather than creating duplicate records.
+- Preserve raw names, spelling, partial sign text, reported dates, listing snapshots, pin/sign conflicts, and uncertainty.
+- Do not update the legacy master CSV or `survey_log.csv` from these text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
