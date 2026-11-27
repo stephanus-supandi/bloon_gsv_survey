@@ -827,3 +827,48 @@ The supplied summary places this group on the same September 2026 Ceger Raya pas
 - Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
 
 **Evidence status:** provisional intake from user-supplied written summaries only. UNKNOWN remains UNKNOWN.
+
+## V. Supplemental South Tangerang observations — Jl. Wijaya Kusuma / Jurang Mangu Barat
+
+**Supplement received:** 2026-11-27  
+**Reported imagery date:** September 2026  
+**Source:** User-supplied written summary of Google Street View screenshots. Original screenshot files were not independently inspected in this update.  
+**Status:** PROVISIONAL INTAKE ONLY; street alignment, pin placement, storefront matching, dates, listing metadata, and business relationships remain subject to direct frame and source review.
+
+The supplied summary describes a cluster along **Jl. Wijaya Kusuma**, with a sign identifying **Kel. Jurang Mangu Barat**. Jurang Mangu Barat is in **Kecamatan Pondok Aren, Kota Tangerang Selatan, Banten**; the supplied alternative placement in Karawaci or Ciledug is not adopted. A directional sign reportedly points straight toward **Jl. Betung / Bintaro** and left toward **Ciledug / Kby. Lama (Kebayoran Lama)**. These destinations are retained as transcribed sign text, not proof that the camera position is exactly on a municipal boundary or that the described road segment has been independently geolocated.
+
+### V1. Street and locality cues
+
+| Provisional cue / raw visible text | Supplied observation | Evidence limits |
+|---|---|---|
+| Jl. Wijaya Kusuma | A street-name sign reportedly appears in the third screenshot | Retain as the reported road label. Exact segment, intersection, and correspondence to earlier Ceger Raya observations require coordinates and original panorama review |
+| Kel. Jurang Mangu Barat | A locality sign reportedly appears in the first screenshot | Supports the supplied kelurahan label as a visible sign transcription; administrative placement is Pondok Aren, South Tangerang, Banten, not Karawaci or Ciledug |
+| Directional road sign — Jl. Betung / Bintaro; Ciledug / Kby. Lama | Green directional sign reportedly indicates straight ahead toward Jl. Betung / Bintaro and left toward Ciledug / Kebayoran Lama | Preserve the directions verbatim as reported. They do not independently establish exact camera coordinates, road continuity, or a border location |
+| Pondok Safari Indah | Sign reportedly visible near the Warunk Brader scene, alongside a brick building | Contextual landmark only; no residential-site boundary, ownership, or business relationship inferred |
+
+### V2. Food, bakery, and café candidates
+
+| Provisional candidate / raw visible text | Supplied observation and reported listing metadata | Evidence limits / reconciliation |
+|---|---|---|
+| Warunk Brader / Warunk Brader (mini foodcourts) | Café / mini-foodcourt candidate reportedly near a brick building and the Pondok Safari Indah sign. Listing snapshot reported as 4.6 stars / 30 reviews, open until 00:00 | Keep the supplied name string and category description as reported. Rating, review count, and hours are platform metadata snapshots, not independently verified current conditions. Nearby residential signage does not establish tenancy or ownership |
+| Baker Old | Bakery candidate with a distinctive yellow storefront and chef logo. Sign reportedly reads “Cabang Ke- #269” and “The Best Mexican Bun since 2015” | Preserve “#269” and the “since 2015” wording as sign claims. They do not independently verify branch count, founding date, franchise status, or current operation |
+| Mine Bakery | Bakery candidate reportedly near Baker Old in the third screenshot. Listing snapshot reported as 3.0 stars / 2 reviews, open until 21:00 | Keep as a separate bakery candidate. Proximity to Baker Old does not establish shared ownership, operator, premises, or brand relationship. Rating and hours are listing metadata only |
+| Pecel Lele Ayam Kremes & Bakar ki BejO Lamongan | Roadside food-stall candidate; supplied summary describes pecel lele, ayam kremes, and grilled food. Listing snapshot reportedly 3.9 stars / 75 reviews, price range Rp1–25,000, open until 01:30. A large “Djarum Super Kretek” banner and piles of coconuts reportedly appear nearby | Preserve the raw business-name spelling “ki BejO” as supplied. Menu, price, hours, and rating are reported listing/banner details, not independently verified. The Djarum banner and coconuts are scene context; they do not establish sponsorship, ownership, supply relationship, or that the banner belongs to the food stall |
+
+### V3. Cross-section reconciliation and evidence limits
+
+- Keep this **Jl. Wijaya Kusuma / Jurang Mangu Barat** group as a separate descriptive subgroup from the earlier Ceger Raya observations. Do not merge the streets or candidates based only on the shared Jurangmangu locality.
+- The visible **Kel. Jurang Mangu Barat** sign is consistent with the Pondok Aren, South Tangerang administrative area. The supplied Karawaci/Ciledug district identification is rejected as a geographic error; Ciledug appearing on a directional sign is a destination cue, not the current district.
+- Keep **Warunk Brader**, **Baker Old**, **Mine Bakery**, and **Pecel Lele Ayam Kremes & Bakar ki BejO Lamongan** as separate candidates. Do not infer shared operators, ownership, tenancy, or a single foodcourt relationship from proximity.
+- The “Branch #269” and “since 2015” wording for Baker Old remains an unverified sign claim. The supplied listing ratings, review counts, price range, and opening hours are snapshots, not independently verified current facts.
+- The brick building, Pondok Safari Indah sign, Djarum banner, and coconuts are contextual observations only. Do not infer property ownership, advertising contracts, business sponsorship, or supply relationships.
+- No coordinates, stable POI IDs, parcel boundaries, verified walking distances, ownership, tenancy, legal relationships, business succession, or current operating status assigned. No pin totals or completeness claims made.
+- No citation URLs or full bibliographic references were supplied with this written summary; no external source claim is treated as independently verified.
+
+### V4. Intake disposition
+
+- Retain V1–V3 as a provisional Jl. Wijaya Kusuma / Jurang Mangu Barat supplement, geographically separate from the Ceger Raya and Central Jakarta subgroups.
+- Preserve raw names, sign transcriptions, reported imagery date, listing snapshots, and uncertainty.
+- Do not update the legacy master CSV or survey_log.csv from text summaries alone. Original screenshots, exact image references, coordinates, camera headings, panorama sequence, and source URLs/documents remain unavailable for independent inspection.
+
+**Evidence status:** provisional intake from user-supplied written summary only. UNKNOWN remains UNKNOWN.
