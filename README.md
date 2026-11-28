@@ -2,6 +2,10 @@
 
 Forensic Street View survey of urban POIs, spatial continuity, metadata drift, and micro-economic patterns across Jakarta–Bekasi.
 
+## SolitudeLabs essays
+
+- [GANG BLOON LEGEND: Antara Pengamatan, Kecurigaan, dan Bukti (2026-11-28)](essays/2026-11-28_gang-bloon-legend-pengamatan-kecurigaan-bukti.md) — reflective essay on separating observation, memory, interpretation, and proof; discusses pattern-seeking, limits of digital evidence, and the responsibility to avoid unsupported accusations. Original publications: [WordPress](https://solitudelabs.wordpress.com/2026/11/28/gang-bloon-legend-antara-pengamatan-kecurigaan-dan-bukti/) · [Blogger](https://solitudelabs.blogspot.com/2026/11/gang-bloon-legend-antara-pengamatan.html).
+
 ## Recent audit notes
 - [Jagalempeni — consolidated provisional POI register (2026-11-28)](inventories/indonesia/jagalempeni-provisional-poi-register-2026-11-28.md) — consolidates overlapping July–November 2025 / November 2024 screenshot descriptions into 34 provisional name strings, preserves re-observation provenance and reported listing metadata, and separates the Desa Jagalempeni context from the similarly named road in the Larangan, Tangerang note. No coordinates or legacy master CSV changes.
 - [Ketanggungan / Kedawon / Larangan — supplemental Street View intake (2026-11-28)](field-notes/indonesia/2026-11-28_ketanggungan-kedawon-larangan-supplemental-street-view-intake.md) — records 19 provisional names from six newly read images and an inline Kedawon/Larangan description. July–August 2025 imagery, listing hours/ratings and 6 hr 16–17 min motorbike values remain user-reported; Ketanggungan geography and possible cross-batch identity matches remain unresolved. No coordinates or master CSV changes.
